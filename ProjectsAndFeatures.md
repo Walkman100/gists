@@ -14,5 +14,5 @@
   - [ ] Listbox
   - [ ] UI Elements (look at YTVL as an example)
 
-# [Blog]()
+# [Blog](http://matthewcstech.blogspot.com/)
 - [ ] Finish post on relocating everything to C:\ProgramFiles
