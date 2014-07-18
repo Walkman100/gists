@@ -7,6 +7,7 @@
 - [x] Command line flags
 - [ ] UI Elements (look at YTVL as an example)
 - [ ] Auto update
+- [ ] Make certain buttons become disabled when an operation is in progress
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
