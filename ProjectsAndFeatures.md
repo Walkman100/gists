@@ -5,15 +5,17 @@
 
 # [GitUpdater](https://github.com/Walkman100/GitUpdater)
 - [x] Command line flags
+- [x] Make certain buttons become disabled when an operation is in progress
 - [ ] UI Elements (look at YTVL as an example)
 - [ ] Auto update
-- [ ] Make certain buttons become disabled when an operation is in progress
+- [ ] Add context menu items
+ - [ ] Pull/Push individual repo
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
 - [ ] UI Overhaul
-  - [ ] Listbox
-  - [ ] UI Elements (look at YTVL as an example)
+ - [ ] Listbox
+ - [ ] UI Elements (look at YTVL as an example)
 
 # [Blog](http://matthewcstech.blogspot.com/)
 - [ ] Finish post on relocating everything to C:\ProgramFiles
