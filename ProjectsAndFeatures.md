@@ -1,7 +1,8 @@
 # [YTVL](https://github.com/Walkman100/YTVL)
 - [ ] Command line flags
-- [ ] Display thumbnail button
 - [ ] More buttons
+ - [x] Open Deturl download links page
+ - [ ] Display thumbnail button
 
 # [GitUpdater](https://github.com/Walkman100/GitUpdater)
 - [x] Command line flags
