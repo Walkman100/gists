@@ -10,6 +10,7 @@
 - [ ] UI Elements (look at YTVL as an example)
 - [ ] Auto update
 - [ ] More context menu items
+ - [x] Open Repo Readme (or Home.md if it's a wiki)
  - [ ] Pull/Push individual repo
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
