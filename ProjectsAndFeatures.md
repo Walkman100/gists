@@ -2,14 +2,14 @@
 - [ ] Command line flags
 - [ ] More buttons
  - [x] Open Deturl download links page
- - [ ] Display thumbnail button
+ - [x] Display thumbnail button
 
 # [GitUpdater](https://github.com/Walkman100/GitUpdater)
 - [x] Command line flags
 - [x] Make certain buttons become disabled when an operation is in progress
 - [ ] UI Elements (look at YTVL as an example)
 - [ ] Auto update
-- [ ] Add context menu items
+- [ ] More context menu items
  - [ ] Pull/Push individual repo
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
