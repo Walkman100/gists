@@ -74,5 +74,8 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 # [LWAR](https://github.com/CampusTools/LWAR)
 - [ ] Command line flags
 
+# [LWAR](https://github.com/CampusTools/LWAR)
+- [ ] Command line flags
+
 # [Blog](http://matthewcstech.blogspot.com/)
 - [ ] Finish post on relocating everything to `C:\ProgramFiles`
