@@ -10,6 +10,7 @@
 - [ ] Update checker
 - [x] Make certain buttons become disabled when an operation is in progress
 - [ ] UI Elements (look at YTVL as an example)
+ - [ ] Fix bug where `Open Repo` only allows you to select a folder in `Documents`
 - [ ] More context menu items
  - [x] Open Repo Readme (or Home.md if it's a wiki)
  - [ ] Pull/Push individual repo
