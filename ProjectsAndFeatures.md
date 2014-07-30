@@ -4,6 +4,7 @@
 - [ ] More buttons
  - [x] Open Deturl download links page
  - [x] Display thumbnail button
+- [ ] Release [v1.4.2](https://github.com/Walkman100/YTVL/releases/tag/untagged-ba23fa9a48c55fe36508) (Waiting for @Deavmi to look at the thumbnail viewer)
 
 # [GitUpdater](https://github.com/Walkman100/GitUpdater)
 - [x] Command line flags
