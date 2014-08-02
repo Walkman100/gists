@@ -10,8 +10,9 @@
 - [x] Command line flags
 - [ ] Update checker
 - [x] Make certain buttons become disabled when an operation is in progress
-- [ ] UI Elements (look at YTVL as an example)
- - [ ] Fix bug where `Open Repo` only allows you to select a folder in `Documents`
+- [ ] UI Elements (look at YTVL as example)
+ - [x] Fix bug where `Open Repo` only allows you to select a folder in `Documents`
+ - [x] Fix/finish file browser for saving log location
 - [ ] More context menu items
  - [x] Open Repo Readme (or Home.md if it's a wiki)
  - [ ] Pull/Push individual repo
@@ -21,7 +22,7 @@
 - [ ] Update checker
 - [ ] UI Overhaul
  - [ ] Listbox
- - [ ] UI Elements (look at YTVL as an example)
+ - [ ] UI Elements (look at YTVL as example)
 
 # [LWAR](https://github.com/CampusTools/LWAR)
 - [ ] Command line flags
