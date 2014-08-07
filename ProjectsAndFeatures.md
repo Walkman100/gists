@@ -15,7 +15,8 @@
  - [x] Fix/finish file browser for saving log location
 - [ ] More context menu items
  - [x] Open Repo Readme (or Home.md if it's a wiki)
- - [ ] Pull/Push individual repo
+ - [x] Pull/Push individual repo
+ - [x] Remove repo, list repos in selected folder
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
