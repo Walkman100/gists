@@ -13,6 +13,7 @@
 - [ ] UI Elements (look at YTVL as example)
  - [x] Fix bug where `Open Repo` only allows you to select a folder in `Documents`
  - [x] Fix/finish file browser for saving log location
+ - [x] Add taskbar progress indicator (Win7 and up)
 - [ ] More context menu items
  - [x] Open Repo Readme (or Home.md if it's a wiki)
  - [x] Pull/Push individual repo
