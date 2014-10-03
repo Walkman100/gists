@@ -19,16 +19,16 @@
  - [x] Pull/Push individual repo
  - [x] Remove repo, list repos in selected folder
  
-### CLI Support
+#### CLI Support
 
-| CLI: | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") | ![Git Bash](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/git_logo-small.png "Git Bash")
+| CLI: | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") | ![Git Bash](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png "Git Bash")
 | :------------------: | :-: | :-: | :-: |
 | Perform Git Operations: | ✔ | ✘ | ✘ |
 | Open repo in:           | ✔ | ✔ | ✘ |
 
-### Repo Auto-detection
+#### Repo Auto-detection
 
-| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages") | ![Normal Repo](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/Repo.png "Normal Repo") |
+| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages") | ![Normal Repo](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png "Normal Repo") |
 | :-------------: | :----------: | :---------: | :------------: | :----------------: |
 | Auto-Detection: | ✔ (Default) | ✔          | ✘             | ✘ (SLN is Default) |
 | Open repo file: | SLN: ✔      | Home.md: ✔ | index.html: ✘ | ✘                  |
