@@ -21,14 +21,14 @@
  
 ### CLI Support
 
-| CLI: | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![Git Bash](http://msysgit.github.io/img/git_logo.png "Git Bash") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") |
+| CLI: | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") | ![Git Bash](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/git_logo-small.png "Git Bash")
 | :------------------: | :-: | :-: | :-: |
 | Perform Git Operations: | ✔ | ✘ | ✘ |
 | Open repo in:           | ✔ | ✔ | ✘ |
 
 ### Repo Auto-detection
 
-| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://blog.petegoo.com/images/github.pages.jpg "GitHub Pages") | ![Normal Repo](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/Repo.png "Normal Repo") |
+| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages") | ![Normal Repo](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/Repo.png "Normal Repo") |
 | :-------------: | :----------: | :---------: | :------------: | :----------------: |
 | Auto-Detection: | ✔ (Default) | ✔          | ✘             | ✘ (SLN is Default) |
 | Open repo file: | SLN: ✔      | Home.md: ✔ | index.html: ✘ | ✘                  |
