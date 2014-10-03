@@ -18,6 +18,20 @@
  - [x] Open Repo Readme (or Home.md if it's a wiki)
  - [x] Pull/Push individual repo
  - [x] Remove repo, list repos in selected folder
+ 
+### CLI Support
+
+| | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![Git Bash](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/Bash.png "Git Bash") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") |
+| ----------------------- | -- | -- | -- |
+| Perform Git Operations: | ✔ | ✘ | ✘ |
+| Open repo in:           | ✔ | ✔ | ✘ |
+
+### Repo Auto-detection
+
+| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://blog.petegoo.com/images/github.pages.jpg "GitHub Pages") | ![Normal Repo]( "Normal Repo") |
+| --------------- | ------------ | ----------- | -------------- | ------------------ |
+| Auto-Detection: | ✔ (Default) | ✔          | ✘             | ✘ (SLN is Default) |
+| Open repo file: | SLN: ✔      | Home.md: ✔ | index.html: ✘ | ✘                  |
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
