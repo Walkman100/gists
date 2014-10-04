@@ -28,10 +28,10 @@
 
 #### Repo Auto-detection
 
-| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages") | ![Normal Repo](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png "Normal Repo") |
-| :-------------: | :----------: | :---------: | :------------: | :----------------: |
-| Auto-Detection: | ✔ (Default) | ✔          | ✘             | ✘ (SLN is Default) |
-| Open repo file: | SLN: ✔      | Home.md: ✔ | index.html: ✘ | ✘                  |
+| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages") | ![Anything Else](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png "Anything Else") |
+| :-------------: | :------------------------: | :-----------: | :--------------: | :----------------: |
+| Auto-Detection: | ✔ (Default)               | ✔            | ✘               | ✘ (SLN is Default) |
+| Open repo file: | `*.SLN`: ✔ `Readme.*`: ✔ | `home.md`: ✔ | `index.html`: ✘ | ✘                  |
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
