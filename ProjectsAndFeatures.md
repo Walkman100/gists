@@ -40,6 +40,22 @@
  - [ ] Listbox
  - [ ] UI Elements (look at YTVL as example)
 
+# [BasicBrowser](https://github.com/Walkman100/BasicBrowser)
+- [x] Command line flags
+- [ ] Update checker
+[#3](https://github.com/Walkman100/BasicBrowser/issues/3)
+
+# [Clipboard Image Saver](https://github.com/Walkman100/Clipboard-Projects/blob/master/ClipboardSaver)
+- [x] Command line flags
+- [ ] Update checker
+- [x] Make text on icon hover show current status (checking/not checking)
+ - [ ] Publish
+
+# [Clipboard Manager](https://github.com/Walkman100/Clipboard-Projects/blob/master/ClipboardManager)
+- [x] Command line flags (Don't need)
+- [ ] Update checker
+- [ ] Publish release
+
 # [LWAR](https://github.com/CampusTools/LWAR)
 - [ ] Command line flags
 
