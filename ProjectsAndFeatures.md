@@ -23,7 +23,7 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 #### CLI Support
 
 | CLI: | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") | ![Git Bash](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png "Git Bash")
-| :------------------: | :-: | :-: | :-: |
+| :-------------------: | :-: | :-: | :-: |
 | Perform Git Operations: | ✔ | ✘ | ✘ |
 | Open repo in:           | ✔ | ✔ | ✘ |
 
@@ -39,6 +39,8 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 - [ ] Update checker
 - [ ] UI Overhaul
  - [ ] Listbox
+   - [ ] Figure out how to make a two column list
+   - [ ] Or, put path and launch code in one value, separated by `|`
  - [ ] UI Elements (look at YTVL as example)
 
 # [BasicBrowser](https://github.com/Walkman100/BasicBrowser)
@@ -50,7 +52,7 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 # [Clipboard Image Saver](https://github.com/Walkman100/Clipboard-Projects/blob/master/ClipboardSaver)
 - [x] Command line flags
 - [ ] Update checker
-- [x] Make text on icon hover show current status (currently checking/not checking)
+- [x] Make text on icon hover show current status (`currently checking`/`not checking`)
  - [ ] Publish
 
 # [Clipboard Manager](https://github.com/Walkman100/Clipboard-Projects/blob/master/ClipboardManager)
@@ -62,4 +64,4 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 - [ ] Command line flags
 
 # [Blog](http://matthewcstech.blogspot.com/)
-- [ ] Finish post on relocating everything to C:\ProgramFiles
+- [ ] Finish post on relocating everything to `C:\ProgramFiles`
