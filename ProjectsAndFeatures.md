@@ -37,10 +37,11 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
 - [ ] Update checker
-- [ ] UI Overhaul
- - [ ] Listbox
-   - [ ] Figure out how to make a two column list
-   - [ ] Or, put path and launch code in one value, separated by `|`
+- [x] UI Overhaul
+ - [x] Listbox
+    - [x] Figure out how to make a two column list (done - it only becomes two columns when items don't fit vertically)
+    - [x] Or, put path and launch code in one entry, separated by `|` (nah - easier to just use a number as launch code and have just the path in an entry)
+      - [ ] implement path and launch code in one entry (will get it done eventually)
  - [ ] UI Elements (look at YTVL as example)
 
 # [BasicBrowser](https://github.com/Walkman100/BasicBrowser)
