@@ -3,7 +3,7 @@
 - [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers)
     - [x] [1](https://en.wikipedia.org/wiki/Transformers_(film))
     - [ ] [2](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
-    - [ ] [3](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon),
+    - [ ] [3](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
     - [ ] [4](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
 - [ ] [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Films):
  - [ ] Phase One: Avengers Assembled
@@ -31,3 +31,4 @@
     - [ ] Inhumans
     - [ ] Avengers: Infinity War Part 2
 - [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
+- [ ] [Batman](https://en.wikipedia.org/wiki/Batman_in_film)
