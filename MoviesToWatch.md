@@ -1,26 +1,40 @@
 - [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
 - [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek)
 - [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers)
-    - [x] [1](https://en.wikipedia.org/wiki/Transformers_(film))
-    - [ ] [2](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
-    - [ ] [3](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
-    - [ ] [4](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
+  - [x] [1](https://en.wikipedia.org/wiki/Transformers_(film))
+  - [ ] [2](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
+  - [ ] [3](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
+  - [ ] [4](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
+- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
+- [ ] [Batman](https://en.wikipedia.org/wiki/Batman_in_film)
+- [ ] [The Matrix](https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films)
+  - [ ] [The Matrix (first film)](https://en.wikipedia.org/wiki/The_Matrix)
+  - [ ] [The Matrix Reloaded](https://en.wikipedia.org/wiki/The_Matrix_Reloaded)
+  - [ ] [The Matrix Revolutions](https://en.wikipedia.org/wiki/The_Matrix_Revolutions)
+- [ ] [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series))
+  - [ ] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
+  - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
+  - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
+  - [ ] [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(film_series))
+    - [ ] [An Unexpected Journey](https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey)
+    - [x] [The Desolation of Smaug](https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug)
+    - [ ] [The Battle of the Five Armies](https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)
 - [ ] [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Films):
- - [ ] Phase One: Avengers Assembled
+  - [ ] Phase One: Avengers Assembled
     - [x] Iron Man
     - [ ] The Incredible Hulk
     - [x] Iron Man 2
     - [ ] Thor
     - [ ] Captain America: The First Avenger
     - [ ] Marvel's The Avengers
- - [ ] Phase Two: 
-    - [ ] Iron Man 3	
+  - [ ] Phase Two: 
+    - [ ] Iron Man 3 
     - [ ] Thor: The Dark World
     - [x] Captain America: The Winter Soldier
     - [ ] Guardians of the Galaxy
     - [ ] Avengers: Age of Ultron
-    - [ ] Ant-Man	
- - [ ] Phase Three:
+    - [ ] Ant-Man 
+  - [ ] Phase Three:
     - [ ] Captain America: Civil War
     - [ ] Doctor Strange
     - [ ] Guardians of the Galaxy 2
@@ -30,5 +44,3 @@
     - [ ] Captain Marvel
     - [ ] Inhumans
     - [ ] Avengers: Infinity War Part 2
-- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
-- [ ] [Batman](https://en.wikipedia.org/wiki/Batman_in_film)
