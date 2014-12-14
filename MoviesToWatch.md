@@ -1,4 +1,12 @@
 - [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
+  - [x] [Episode I: The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_The_Phantom_Menace)
+  - [ ] [Episode II: Attack of the Clones](https://en.wikipedia.org/wiki/Star_Wars_Episode_II:_Attack_of_the_Clones)
+  - [ ] [Episode III: Revenge of the Sith](https://en.wikipedia.org/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith)
+  - [ ] [Episode IV: A New Hope](https://en.wikipedia.org/wiki/Star_Wars_(film))
+  - [ ] [Episode V: The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)
+  - [ ] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
+  - [ ] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
+  - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
 - [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek)
 - [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers)
   - [x] [1](https://en.wikipedia.org/wiki/Transformers_(film))
@@ -12,13 +20,13 @@
   - [ ] [The Matrix Reloaded](https://en.wikipedia.org/wiki/The_Matrix_Reloaded)
   - [ ] [The Matrix Revolutions](https://en.wikipedia.org/wiki/The_Matrix_Revolutions)
 - [ ] [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series))
-  - [ ] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
-  - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
-  - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
   - [ ] [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(film_series))
     - [ ] [An Unexpected Journey](https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey)
     - [x] [The Desolation of Smaug](https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug)
     - [ ] [The Battle of the Five Armies](https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)
+  - [ ] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
+  - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
+  - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
 - [ ] [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Films):
   - [ ] Phase One: Avengers Assembled
     - [x] Iron Man
@@ -34,7 +42,7 @@
     - [ ] Guardians of the Galaxy
     - [ ] Avengers: Age of Ultron
     - [ ] Ant-Man 
-  - [ ] Phase Three:
+  - [ ] Phase Three: (Not produced yet, see the Wikipedia page)
     - [ ] Captain America: Civil War
     - [ ] Doctor Strange
     - [ ] Guardians of the Galaxy 2
