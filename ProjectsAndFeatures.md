@@ -24,14 +24,14 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 
 #### CLI Support
 
-| CLI: | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") | ![Git Bash](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png "Git Bash")
+| CLI: | [![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png) | [![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png) | [![Git Bash](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png "Git Bash")](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png)
 | :-------------------: | :-: | :-: | :-: |
 | Perform Git Operations: | ✔ | ✘ | ✘ |
 | Open repo in:           | ✔ | ✔ | ✘ |
 
 #### Repo Auto-detection
 
-| Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages") | ![Anything Else](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png "Anything Else") |
+| Repo type:      | [![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png) "SLN") | [![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png) | [![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg) | [![Anything Else](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png "Anything Else")](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png) |
 | :-------------: | :----------: | :----------: | :-------------: | :----------------: |
 | Auto-Detection: | ✔ (Default) | ✔           | ✔              | ✘ (SLN is Default) |
 | Open repo file: | `*.SLN`:✔   | `home.md`:✔ | `index.html`:✔ | `Readme.*`:✔       |
