@@ -5,7 +5,7 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 - [ ] More buttons
  - [x] Open Deturl download links page
  - [x] Display thumbnail button
-- [ ] Release [v1.4.2](https://github.com/Walkman100/YTVL/releases/tag/untagged-ba23fa9a48c55fe36508) (Waiting for @Deavmi to look at the thumbnail viewer)
+- [x] Release [v1.4.2](https://github.com/Walkman100/YTVL/releases/tag/v1.4.2) (Waiting for @Deavmi to look at the thumbnail viewer)
 
 # [GitUpdater](https://github.com/Walkman100/GitUpdater)
 - [x] Command line flags
@@ -14,12 +14,14 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 - [ ] UI Elements (look at YTVL as example)
  - [x] Fix bug where `Open Repo` only allows you to select a folder in `Documents`
  - [x] Fix/finish file browser for saving log location
- - [x] Add taskbar progress indicator (Win7 and up)
+ - [ ] Add taskbar progress indicator (Win7 and up) (Doesn't work)
 - [ ] More context menu items
  - [x] Open Repo Readme (or Home.md if it's a wiki)
  - [x] Pull/Push individual repo
  - [x] Remove repo, list repos in selected folder
- 
+ - [x] Open repo URL
+ - [ ] Fix open in GitHub for Windows
+
 #### CLI Support
 
 | CLI: | ![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD") | ![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell") | ![Git Bash](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png "Git Bash")
@@ -30,9 +32,9 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 #### Repo Auto-detection
 
 | Repo type:      | ![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN") | ![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki") | ![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages") | ![Anything Else](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png "Anything Else") |
-| :-------------: | :-----------------------------: | :----------: | :-------------: | :----------------: |
-| Auto-Detection: | ✔ (Default)                    | ✔           | ✔              | ✘ (SLN is Default) |
-| Open repo file: | `*.SLN`:✔ &nbsp; `Readme.*`:✔ | `home.md`:✔ | `index.html`:✔ | ✘                  |
+| :-------------: | :----------: | :----------: | :-------------: | :----------------: |
+| Auto-Detection: | ✔ (Default) | ✔           | ✔              | ✘ (SLN is Default) |
+| Open repo file: | `*.SLN`:✔   | `home.md`:✔ | `index.html`:✔ | `Readme.*`:✔       |
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
