@@ -1,3 +1,4 @@
+# Movies/Films
 - [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
   - [x] [Episode I: The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_The_Phantom_Menace)
   - [x] [Episode II: Attack of the Clones](https://en.wikipedia.org/wiki/Star_Wars_Episode_II:_Attack_of_the_Clones)
@@ -7,26 +8,25 @@
   - [x] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
   - [ ] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
   - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
-- [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek)
 - [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers)
   - [x] [Transformers 1](https://en.wikipedia.org/wiki/Transformers_(film))
   - [ ] [Revenge of the Fallen](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
   - [ ] [Dark of the Moon](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
   - [ ] [Age of Extinction](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
-- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
-- [ ] [Batman](https://en.wikipedia.org/wiki/Batman_in_film)
 - [ ] [The Matrix](https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films)
   - [ ] [The Matrix (first film)](https://en.wikipedia.org/wiki/The_Matrix)
   - [ ] [The Matrix Reloaded](https://en.wikipedia.org/wiki/The_Matrix_Reloaded)
   - [ ] [The Matrix Revolutions](https://en.wikipedia.org/wiki/The_Matrix_Revolutions)
+- [ ] [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(film_series))
+  - [ ] [An Unexpected Journey](https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey)
+  - [x] [The Desolation of Smaug](https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug)
+  - [ ] [The Battle of the Five Armies](https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)
 - [ ] [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series))
-  - [ ] [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(film_series))
-    - [ ] [An Unexpected Journey](https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey)
-    - [x] [The Desolation of Smaug](https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug)
-    - [ ] [The Battle of the Five Armies](https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)
   - [ ] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
   - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
   - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
+- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
+- [ ] [Batman](https://en.wikipedia.org/wiki/Batman_in_film)
 - [ ] [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Films):
   - [ ] Phase One: Avengers Assembled
     - [x] Iron Man
@@ -52,3 +52,22 @@
     - [ ] Captain Marvel
     - [ ] Inhumans
     - [ ] Avengers: Infinity War Part 2
+
+# Series
+
+- [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek)
+- [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
+  - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
+- [x] [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones)
+  - [x] Season 1
+  - [x] Season 2
+  - [x] Season 3
+  - [x] Season 4
+- [ ] [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) [(since 2005)](https://en.wikipedia.org/wiki/History_of_Doctor_Who#2000s)
+  - [x] Season 1 - 2005
+  - [x] Season 2 - 2006
+  - [x] Season 3 - 2007
+  - [ ] Season 4 - 2008
+  - [ ] Season 5 - 2009
+  - [ ] Season 6 - 2011
+  - [ ] Season 7 - 2012
