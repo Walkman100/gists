@@ -52,6 +52,7 @@
     - [ ] Captain Marvel
     - [ ] Inhumans
     - [ ] Avengers: Infinity War Part 2
+- [ ] [DC Films](https://en.wikipedia.org/wiki/List_of_films_based_on_DC_Comics#Live-action_films)
 
 # Series
 
