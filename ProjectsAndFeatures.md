@@ -24,10 +24,10 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 
 #### CLI Support
 
-| CLI: | [![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png) | [![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png) | [![Git Bash](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png "Git Bash")](https://www.accesstomemory.org/es/docs/about-contribute/_images/code-fork.png)
+| CLI: | [![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png) | [![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png) | [![Git Bash](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/git-code-fork.png "Git Bash")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/git-code-fork.png)
 | :-------------------: | :-: | :-: | :-: |
 | Perform Git Operations: | ✔ | ✘ | ✘ |
-| Open repo in:           | ✔ | ✔ | ✘ |
+| Open repo in:           | ✔ | ✔ | ✔ |
 
 #### Repo Auto-detection
 
