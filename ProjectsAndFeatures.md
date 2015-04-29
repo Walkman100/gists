@@ -56,7 +56,7 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
 - [x] Command line flags
 - [ ] Update checker
 - [x] Make text on icon hover show current status (`currently checking`/`not checking`)
- - [ ] Publish
+ - [x] Publish
 
 # [Clipboard Manager](https://github.com/Walkman100/Clipboard-Projects/blob/master/ClipboardManager)
 - [x] Command line flags (Don't need)
