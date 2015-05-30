@@ -26,8 +26,20 @@ End If
 ```
 
 ### Python
+Method one:
 ```python
-
+if <variable> == <value>:
+    <code>
+elif <variable> == <value>:
+    <code>
+else:
+    <code>
+```
+Method two:
+```python
+if <variable> == <value>: <code>
+elif <variable> == <value>: <code>
+else: <code>
 ```
 
 ### Windows Batch
