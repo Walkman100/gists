@@ -9,7 +9,7 @@ Else
     <code>
 End If
 ```
-Method two:
+Method two: (One line)
 ```vb
 If <variable> = <value> Then <code> Else <code>
 ```
@@ -31,17 +31,16 @@ End If
 ```
 
 ### Windows Batch
-Method one:
 ```batch
-if [Not] <variable>==<value> <code>
-```
-Method two:
-```batch
-if <variable>==<value> (
+if [Not] <variable>==<value> (
     <code>
 ) else (
     <code>
 )
+```
+This can all be put on one line:
+```batch
+if <variable>==<value> (<code>) else (<code>)
 ```
 
 ### PowerShell
@@ -52,26 +51,31 @@ if <variable>==<value> (
 ### Bash
 (`!` is used for `Not`)
 ```bash
-if [ [!] "<variable>" = "<value>" ]; then
+if [ [!] "<variable>" = "<value>" ]
+  then
     <code>
-elif [ "<variable>" = "<value>" ]; then
+elif [ "<variable>" = "<value>" ]
+  then
     <code>
 else
     <code>
 fi
 ```
+This can all be put on one line:
+```bash
+if ["<variable>"="<value>"]; then; <code>; elif ["<variable>"="<value>"]; then; <code>; else; <code>; fi
+```
 
 ### Lua
-(`~` is used for `Not`)
-Method one:
+(`~` is used for `Not` instead of the first `=`)
 ```lua
-if <variable> [~|=]= <value> then <code> end
-```
-Method two:
-```lua
-if <variable> == <value> then
+if <variable> [~|=]= <value> then
   <code>
 else
   <code>
 end
+```
+This can all be put on one line:
+```lua
+if <variable> == <value> then <code> end
 ```
