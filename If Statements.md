@@ -1,7 +1,7 @@
 ### VB.Net
 Method one:
 ```vb
-If <variable> = <value> Then
+If [Not] <variable> = <value> Then
     <code>
 ElseIf <variable> = <value>
     <code>
@@ -31,14 +31,16 @@ End If
 ```
 
 ### Windows Batch
+Method one:
 ```batch
-if Not ERRORLEVEL==1 goto end
-if %~4==True (
-    echo.
-    echo Press enter to close this window. Unless you specified the "Don't wait for cmd to close before starting next" option, further git commands will not start until you close this window.
-    pause
+if [Not] <variable>==<value> <code>
+```
+Method two:
+```batch
+if <variable>==<value> (
+    <code>
 ) else (
-    exit
+    <code>
 )
 ```
 
@@ -48,35 +50,28 @@ if %~4==True (
 ```
 
 ### Bash
+(`!` is used for `Not`)
 ```bash
-if [ "$1" = "install" ]; then
-  install
-elif [ "$1" = "update" ]; then
-  update
+if [ [!] "<variable>" = "<value>" ]; then
+    <code>
+elif [ "<variable>" = "<value>" ]; then
+    <code>
 else
-  if [ ! -f ./tg/telegram.h ]; then
-    echo "tg not found"
-    echo "Run $0 install"
-    exit 1
-  fi
-
-  if [ ! -f ./tg/bin/telegram-cli ]; then
-    echo "tg binary not found"
-    echo "Run $0 install"
-    exit 1
-  fi
-
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/bot.lua -l 1 -E
+    <code>
 fi
 ```
 
 ### Lua
+(`~` is used for `Not`)
+Method one:
 ```lua
-if code ~= 200 then return "HTTP ERROR" end
-
-if matches[1] == "!xkcd" then
-  url, title, alt = get_xkcd_random()
+if <variable> [~|=]= <value> then <code> end
+```
+Method two:
+```lua
+if <variable> == <value> then
+  <code>
 else
-  url, title, alt = get_xkcd(matches[1])
+  <code>
 end
 ```
