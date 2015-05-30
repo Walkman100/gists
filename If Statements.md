@@ -50,14 +50,25 @@ if [Not] <variable>==<value> (
     <code>
 )
 ```
-This can all be put on one line:
+One line:
 ```batch
 if <variable>==<value> (<code>) else (<code>)
 ```
 
 ### PowerShell
+(`!` is used for `Not`)
 ```posh
-
+if ([!]<statement>) {
+    <code>
+} elseif (<statement>) {
+    <code>
+} else {
+    <code>
+}
+```
+One line:
+```posh
+if (<statement>) {<code>} elseif (<statement>) {<code>} else {<code>}
 ```
 
 ### Bash
@@ -73,7 +84,7 @@ else
     <code>
 fi
 ```
-This can all be put on one line:
+One line:
 ```bash
 if ["<variable>"="<value>"]; then; <code>; elif ["<variable>"="<value>"]; then; <code>; else; <code>; fi
 ```
@@ -87,7 +98,7 @@ else
   <code>
 end
 ```
-This can all be put on one line:
+One line:
 ```lua
 if <variable> == <value> then <code> end
 ```
