@@ -102,3 +102,18 @@ One line:
 ```lua
 if <variable> == <value> then <code> end
 ```
+
+### Jekyll
+```html
+{% if <variable> == <value> %}
+    <code>
+{% else %}
+    <code>
+{% endif %}
+```
+An `unless` if:
+```html
+{% unless forloop.last %}
+    <code>
+{% endunless %}
+```
