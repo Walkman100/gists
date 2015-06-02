@@ -21,8 +21,24 @@ End If
 ```
 
 ### Java
+(`!` is used for `Not` instead of the first `=`)
 ```java
-
+if (<variable> [!|=]= <value>)
+{
+    <code>
+}
+else if(<variable> == <value>)
+{
+    <code>
+}
+else
+{
+    <code>
+}
+```
+One line:
+```java
+if (<variable> == <value>) {<code>}
 ```
 
 ### Python
@@ -58,7 +74,7 @@ if <variable>==<value> (<code>) else (<code>)
 ### PowerShell
 (`!` is used for `Not`)
 ```posh
-if ([!]<statement>) {
+if ([!] <statement>) {
     <code>
 } elseif (<statement>) {
     <code>
@@ -113,7 +129,7 @@ if <variable> == <value> then <code> end
 ```
 An `unless` if:
 ```html
-{% unless forloop.last %}
+{% unless <expression> %}
     <code>
 {% endunless %}
 ```
