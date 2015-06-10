@@ -41,6 +41,22 @@ One line:
 if (<variable> == <value>) {<code>}
 ```
 
+### C
+```C
+if (<variable> == <value>)
+{
+    <code>
+}
+elif (<variable> == <value>)
+{
+    <code>
+}
+else
+{
+    <code>
+}
+```
+
 ### Python
 Method one:
 ```python
