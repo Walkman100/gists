@@ -23,22 +23,22 @@ End If
 ### Java
 (`!` is used for `Not` instead of the first `=`)
 ```java
-if (<variable> [!|=]= <value>)
+if (<variable> [!|=]= <value>);
 {
-    <code>
+    <code>;
 }
-else if(<variable> == <value>)
+else if(<variable> == <value>);
 {
-    <code>
+    <code>;
 }
-else
+else;
 {
-    <code>
+    <code>;
 }
 ```
 One line:
 ```java
-if (<variable> == <value>) {<code>}
+if (<variable> == <value>); {<code>;}
 ```
 
 ### C
@@ -144,6 +144,17 @@ end
 One line:
 ```lua
 if <variable> == <value> then <code> end
+```
+
+### FreeBASIC
+```basic
+if <variable> = <value> then
+    <code>
+elseif <variable> = <value> then
+    <code>
+else
+    <code>
+end if
 ```
 
 ### Jekyll
