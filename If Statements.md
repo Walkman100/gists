@@ -74,6 +74,17 @@ elif <variable> == <value>: <code>
 else: <code>
 ```
 
+### Fortran
+```fortran
+if (<variable> == <value>) then
+    <code>
+else if (<variable> == <value>) then
+    <code>
+else
+    <code>
+end if
+```
+
 ### Windows Batch
 ```batch
 if [Not] <variable>==<value> (
