@@ -1,14 +1,21 @@
-The Autorun script file at [DeviceLetter]/Autorun.inf can be used to do a variety of things.
+The Autorun script file at `[DeviceLetter]/Autorun.inf` can be used to do a variety of things.
 
 Valid line entries are:
 
-- [autorun]
-- `Label=`  Name of device as shown in `My Computer` in Windows XP, `Computer` in 7.
-- `Name=`   I'm not sure what the difference between `Label` and `Name` is, but I use both to be safe.
-- `Icon=`   Device icon as shown in `My Computer` in Windows XP, `Computer` in 7.
-- `Open=`   Action to open a program when an autorun menu appears when the device is inserted. If located in a folder, just use the folder name followed by `/` then the program name and extension, e.g. `Open=Autorun/Autorun.exe`
-- `Run=`    I'm not sure what the difference between `Open` and `Run` is, but I use both to be safe.
-- `Action=` Name of list action for running a program when an autorun menu appears when the device is inserted, e.g. `Action=Install Device Program`
+- `[autorun]`
+  - Required Header
+- `Label=`
+  - Name of device as shown in `Computer`.
+- `Name=`
+  - I'm not sure what the difference between `Label` and `Name` is, but I use both to be safe.
+- `Icon=`
+  - Device icon as shown in `Computer`.
+- `Open=`
+  - Action to open a program when an autorun menu appears when the device is inserted. If located in a folder, just use the folder name followed by `/` then the program name and extension, e.g. `Open=Autorun/Autorun.exe`
+- `Run=`
+  - I'm not sure what the difference between `Open` and `Run` is, but I use both to be safe.
+- `Action=`
+  - Name of list action for running a program when an autorun menu appears when the device is inserted, e.g. `Action=Install Device Program`
 
 ```ini
 shell\any_string\command=path\to\executable.exe
