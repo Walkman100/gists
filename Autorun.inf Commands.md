@@ -1,4 +1,4 @@
-The Autorun script file at `[DeviceLetter]/Autorun.inf` can be used to do a variety of things.
+The Autorun script file at `[DeviceLetter]\Autorun.inf` can be used to do a variety of things.
 
 Valid line entries are:
 
