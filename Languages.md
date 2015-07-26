@@ -27,8 +27,8 @@
 | CSS        | Rendering Engines         |      |                   |                              | Browser       | Cascading Style Sheet
 | YML        |                           |      |                   |                              | Text Editor   | 
 | INI        |                           |      |                   |                              | Text Editor   | 
-  [Windows]: 
-  [Linux]: 
-  [OSX]: 
-  [Android]: 
-  [iOS]: 
+  [Windows]: http://png-1.findicons.com/files/icons/2075/windows_system_logo/16/windows_xp.png
+  [Linux]: https://www.harryhomers.org/et/images/linux.png
+  [OSX]: https://static.4kdownload.com/main/img/logo/osx-16.96553fbe79c1.png
+  [Android]: http://yvanrodrigues.com/sites/yvanrodrigues.com/files/android.svg
+  [iOS]: http://www.whatvpn.com/images/icons/ios.png
