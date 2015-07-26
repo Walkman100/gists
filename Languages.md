@@ -1,33 +1,32 @@
-|  Language  |         Runs with         | OSs (Native) | OSs (Wrappers) | Access method | Full name                                            | Type (procedural, imperative, OOP, functional) |
-|------------|---------------------------|--------------|----------------|---------------|------------------------------------------------------|------------------------------------------------|
-| Batch      | Command Prompt            | W            | LM             | Command Line  | Windows Batch                                        |
-| PowerShell | PowerShell Interpreter    | W            |                | Command Line  |                                                      |
-| Shell      | bash                      | LMA          | A              | Command Line  |                                                      |
-| VBA        | Microsoft Excel           | W            | LM             | Spreadsheet   | Visual Basic for Applications                        |
-| VBS        | WSH (Windows Script Host) | W            | LM             | GUI/CLI       | Visual Basic Script                                  |
-| VB.Net     | .Net platform incl. mono  | W            | LM             | GUI/CLI       | Visual Basic .Net                                    |
-| C.Net      | .Net platform incl. mono  | W            | LM             | GUI/CLI       | Visual C .Net                                        |
-| C#         | .Net platform incl. mono  | W            | LM             | GUI/CLI       | Visual C Sharp .Net                                  |
-| C          | Linux Kernel              | LM           |                | GUI/CLI       |                                                      |
-| Assembly   | Windows Kernel            | W            | LM             | GUI/CLI       |                                                      |
-| C++        |                           |              |                |               | C Plus Plus                                          |
-| PHP        | PHP Interpreter           | WLM          |                | Browser       |                                                      |
-| Python     | Python Interpreter        | WLM          | A              | GUI/CLI       |                                                      |
-| Java       | Java Virtual Machine      | WLM          |                | GUI           |                                                      |
-| JavaScript | Rendering Engines         | WLMAi        |                | Browser/CLI   |                                                      |
-| AHK        | AHK Interpreter           | W            |                | GUI/Keyboard  | AutoHotkey                                           |
-| NSIS       | NSI Compiler              | W            |                | GUI           | Nullsoft Scriptable Install System                   |
-| Perl       |                           |              |                |               |                                                      |
-| Lua        |                           |              |                |               |                                                      |
-| Ruby       |                           | WLM          |                |               |                                                      |
+|  Language  |         Runs with         | OSs (Native)      | OSs (Wrappers)               | Access method | Full name          | Type (procedural, imperative, OOP, functional) |
+|------------|---------------------------|-------------------|------------------------------|---------------|--------------------|------------------------------------------------|
+| Batch      | Command Prompt            |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| Command Line  | Windows Batch
+| PowerShell | PowerShell Interpreter    |![Windows][Windows]|                              | Command Line
+| Shell      | bash                      |![Linux][Linux]![Mac OSX][OSX]![Android][Android]|![Android][Android]|Command Line
+| VBA        | Microsoft Excel           |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| Spreadsheet   | Visual Basic for Applications
+| VBS        | WSH (Windows Script Host) |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual Basic Script
+| VB.Net     | .Net platform incl. mono  |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual Basic .Net
+| C.Net      | .Net platform incl. mono  |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual C .Net
+| C#         | .Net platform incl. mono  |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual C Sharp .Net
+| C          | Linux Kernel              |![Linux][Linux]![Mac OSX][OSX]||GUI/CLI
+| Assembly   | Windows Kernel            |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | 
+| C++        |                           |                   |                              |               | C Plus Plus
+| PHP        | PHP Interpreter           |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| Browser       | 
+| Python     | Python Interpreter        |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|![Android][Android]|GUI/CLI
+| Java       | Java Virtual Machine      |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| GUI           | 
+| JavaScript | Rendering Engines         |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]![Android][Android]i||Browser/CLI| 
+| AHK        | AHK Interpreter           |![Windows][Windows]|                              | GUI/Keyboard  | AutoHotkey
+| NSIS       | NSI Compiler              |![Windows][Windows]|                              | GUI           | Nullsoft Scriptable Install System
+| Perl       |                           |                   |                              |               | 
+| Lua        |                           |                   |                              |               | 
+| Ruby       |                           |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]||               | 
 | **Static:**
-| XML (HTML) | HTML: Rendering engines   |              |                | Browser       | eXtended Markup Language (Hypertext Markup Language) |
-| CSS        | Rendering Engines         |              |                | Browser       | Cascading Style Sheet                                |
-| YML        |                           |              |                | Text Editor   |                                                      |
-| INI        |                           |              |                | Text Editor   |                                                      |
-
-W=Windows
-L=Linux
-M=Mac OSX
-A=Android
-i=iOS
+| XML (HTML) | HTML: Rendering engines   |                   |                              | Browser       | eXtended Markup Language (Hypertext Markup Language)
+| CSS        | Rendering Engines         |                   |                              | Browser       | Cascading Style Sheet
+| YML        |                           |                   |                              | Text Editor   | 
+| INI        |                           |                   |                              | Text Editor   | 
+  [Windows]: 
+  [Linux]: 
+  [OSX]: 
+  [Android]: 
+  [iOS]: 
