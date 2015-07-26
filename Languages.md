@@ -1,6 +1,3 @@
-Languages that I know
-languages.md
-
 |  Language  |         Runs with         | OSs (Native) | OSs (Wrappers) | Access method | Full name                                            | Type (procedural, imperative, OOP, functional) |
 |------------|---------------------------|--------------|----------------|---------------|------------------------------------------------------|------------------------------------------------|
 | Batch      | Command Prompt            | W            | LM             | Command Line  | Windows Batch                                        |
@@ -23,8 +20,7 @@ languages.md
 | Perl       |                           |              |                |               |                                                      |
 | Lua        |                           |              |                |               |                                                      |
 | Ruby       |                           | WLM          |                |               |                                                      |
-
-Static:
+| **Static:**
 | XML (HTML) | HTML: Rendering engines   |              |                | Browser       | eXtended Markup Language (Hypertext Markup Language) |
 | CSS        | Rendering Engines         |              |                | Browser       | Cascading Style Sheet                                |
 | YML        |                           |              |                | Text Editor   |                                                      |
