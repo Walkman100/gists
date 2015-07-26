@@ -23,18 +23,23 @@ A list of all projects is available [here](http://walkman100.github.io/Walkman/H
  - [ ] Fix open in GitHub for Windows
 
 #### CLI Support
-
-| CLI: | [![CMD](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png "CMD")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/CmdLarge.png) | [![PowerShell](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png "PowerShell")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/PSLarge.png) | [![Git Bash](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/git-code-fork.png "Git Bash")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/git-code-fork.png)
+| CLI: | [![CMD][CMD]][CMD] | [![PowerShell][PS]][PS] | [![Git Bash][Bash]][Bash]
 | :-------------------: | :-: | :-: | :-: |
 | Perform Git Operations: | ✔ | ✘ | ✘ |
 | Open repo in:           | ✔ | ✔ | ✔ |
+  [CMD]: http://walkman100.github.io/images/Screenshots/Windows_Explorer/CmdLarge.png
+  [PS]: http://walkman100.github.io/images/Screenshots/Windows_Explorer/PSLarge.png
+  [Bash]: http://walkman100.github.io/images/other/git-code-fork.png
 
 #### Repo Auto-detection
-
-| Repo type:      | [![SLN](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png "SLN")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/VS_SLN.png) | [![Wiki](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png "Wiki")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/GitHub-Wiki.png) | [![GitHub Pages](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg "GitHub Pages")](http://walkman100.github.io/Walkman/Images/WindowsProjectsOriginalImages/github.pages-clean.jpg) | [![Anything Else](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png "Anything Else")](https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png) |
-| :-------------: | :----------: | :----------: | :-------------: | :----------------: |
-| Auto-Detection: | ✔ (Default) | ✔           | ✔              | ✘ (SLN is Default) |
-| Open repo file: | `*.SLN`:✔   | `home.md`:✔ | `index.html`:✔ | `Readme.*`:✔       |
+| Repo type:      | [![SLN][SLN]][SLN] | [![Wiki][Wiki]][Wiki] | [![GitHub Pages][GH Pages]][GH Pages] | [![Anything Else][Repo]][Repo] |
+|:---------------:|:------------------:|:---------------------:|:-------------------------------------:|:------------------------------:|
+| Auto-Detection: |    ✔ (Default)     |      ✔                |            ✔                          |       ✘ (SLN is Default)       |
+| Open repo file: |    `*.SLN`:✔       |     `home.md`:✔       |            `index.html`:✔             |       `Readme.*`:✔             |
+  [SLN]: http://walkman100.github.io/images/Screenshots/Windows_Shell/VS-SLN.png
+  [Wiki]: http://walkman100.github.io/images/embeddable-images/github-wiki.png
+  [GH Pages]: http://walkman100.github.io/images/other/github-pages-clean.jpg
+  [Repo]: https://assets.xplenty.com/blog/assets/2014/08/github-dc-repo.png
 
 # [SteamPlaceholder](https://github.com/Walkman100/SteamPlaceholder)
 - [x] Command line flags
