@@ -7,9 +7,9 @@
 | Shell      | bash                      |         |![Linux][Linux]![Mac OSX][OSX]![Android][Android]|| Command Line  | 
 | VBA        | Microsoft Excel           |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| Spreadsheet   | Visual Basic for Applications
 | VBS        | WSH (Windows Script Host) |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual Basic Script
-| VB.Net     | .Net platform incl. mono  |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual Basic .Net
-| C.Net      | .Net platform incl. mono  |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual C .Net
-| C#         | .Net platform incl. mono  |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual C Sharp .Net
+| VB.Net     | DotNet platform incl. mono|         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual Basic DotNet
+| C.Net      | DotNet platform incl. mono|         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual C DotNet
+| C#         | DotNet platform incl. mono|         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual C Sharp DotNet
 | C          | Linux Kernel              | Generic |![Linux][Linux]![Mac OSX][OSX]|                   | GUI/CLI       | 
 | Assembly   | Windows Kernel            | Generic |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | 
 | C++        |                           |         |                   |                              |               | C Plus Plus
