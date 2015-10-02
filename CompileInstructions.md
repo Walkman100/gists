@@ -12,7 +12,7 @@ Replace `{project name}` with the GitHub repo you want to compile.
 
 You can install `MSBuild` by doing one of the following:
 - (Recommended) Installing [Visual Studio 2013 Express for Windows Desktop](http://go.microsoft.com/?linkid=9832280&clcid=0x409) [[ISO](http://go.microsoft.com/?linkid=9832270&clcid=0x409)] [[All Downloads](http://www.visualstudio.com/en-us/downloads/download-visual-studio-vs#DownloadFamilies_2)]
-- Extracting the contents of `MSBuild.zip` from this repo to `%ProgramFiles%\MSBuild`
+- Extracting the contents of `MSBuild.zip` from [WinCompile](https://github.com/Walkman100/WinCompile) to `%ProgramFiles%\MSBuild`
 
 Project Compatibility (Only planned ones are listed):
 - [x] [BasicBrowser](https://github.com/Walkman100/BasicBrowser)
