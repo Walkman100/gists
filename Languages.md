@@ -17,8 +17,8 @@
 | Python     | Python Interpreter        | OOP (Pure OOP-like) |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|![Android][Android]|GUI/CLI| 
 | Java       | Java Virtual Machine      | Generic with OOP    |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| GUI           | 
 | JavaScript | Rendering Engines         |         |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]![Android][Android]![iOS][iOS]||Browser/CLI| 
-| AHK        | AHK Interpreter           |         |![Windows][Windows]|                              | GUI/Keyboard  | AutoHotkey
-| NSIS       | NSI Compiler              |         |![Windows][Windows]|                              | GUI           | Nullsoft Scriptable Install System
+| AHK        | AHK Interpreter           |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/Keyboard  | AutoHotkey
+| NSIS       | NSI Compiler              |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI           | Nullsoft Scriptable Install System
 | Perl       |                           |         |                   |                              |               | 
 | Lua        |                           | Generic |                   |                              | Other Programs| 
 | Ruby       |                           |   OOP   |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| Command Line  | 
