@@ -14,20 +14,20 @@
 | Assembly   | Windows Kernel            | Generic |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | 
 | C++        |                           |         |                   |                              |               | C Plus Plus
 | PHP        | PHP Interpreter           |         |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| Browser       | 
-| Python     | Python Interpreter        | OOP (Pure OOP-like) |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|![Android][Android]|GUI/CLI| 
-| Java       | Java Virtual Machine      | Generic with OOP    |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| GUI           | 
+| Python     | Python Interpreter        |OOP (Pure OOP-like)|![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|![Android][Android]|GUI/CLI| 
+| Java       | Java Virtual Machine      |Generic with OOP   |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]||GUI/CLI| 
 | JavaScript | Rendering Engines         |         |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]![Android][Android]![iOS][iOS]||Browser/CLI| 
 | AHK        | AHK Interpreter           |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/Keyboard  | AutoHotkey
 | NSIS       | NSI Compiler              |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI           | Nullsoft Scriptable Install System
-| Perl       |                           |         |                   |                              |               | 
+| Ruby       |                           |   OOP   |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| Command Line  |
+| Perl       |                           |         |                   |                              |               |
 | Lua        |                           | Generic |                   |                              | Other Programs| 
-| Ruby       |                           |   OOP   |![Windows][Windows]![Linux][Linux]![Mac OSX][OSX]|| Command Line  | 
+| Fortran    | GFortran Compiler         | Generic |                   |                              | Other Programs|
 | **Static:**
-| XML (HTML) | HTML: Rendering engines   |         |                   |                              | Browser       | eXtended Markup Language (HyperText Markup Language)
+| XML (HTML) | HTML: Rendering engines   |         |                   |                              | Browser       | eXtensible Markup Language (HyperText Markup Language)
 | CSS        | Rendering Engines         |         |                   |                              | Browser       | Cascading Style Sheet
 | YML        |                           |         |                   |                              | Other Programs| 
 | INI        |                           |         |                   |                              | Other Programs| 
-| Fortran    | GFortran Compiler         | Generic |                   |                              | Other Programs| 
   [Windows]: http://png-1.findicons.com/files/icons/2075/windows_system_logo/16/windows_xp.png
   [Linux]: https://www.harryhomers.org/et/images/linux.png
   [OSX]: https://static.4kdownload.com/main/img/logo/osx-16.96553fbe79c1.png
