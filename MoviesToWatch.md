@@ -6,7 +6,7 @@
   - [x] [Episode IV: A New Hope](https://en.wikipedia.org/wiki/Star_Wars_(film))
   - [x] [Episode V: The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)
   - [x] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
-  - [ ] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
+  - [x] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
   - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
 - [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers)
   - [x] [Transformers 1](https://en.wikipedia.org/wiki/Transformers_(film))
