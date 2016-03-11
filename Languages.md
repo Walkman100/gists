@@ -4,7 +4,7 @@
 |------------|---------------------------|---------|-------------------|------------------------------|---------------|--------------------|
 | Batch      | Command Prompt            |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| Command Line  | Windows Batch
 | PowerShell | PowerShell Interpreter    |         |![Windows][Windows]|                              | Command Line  | 
-| Shell      | bash                      |         |![Linux][Linux]![Mac OSX][OSX]![Android][Android]|| Command Line  | 
+| Shell      | bash                      |         |![Linux][Linux]![Mac OSX][OSX]![Android][Android]|![Windows][Windows]|Command Line| 
 | VBA        | Microsoft Excel           |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| Spreadsheet   | Visual Basic for Applications
 | VBS        | WSH (Windows Script Host) |         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual Basic Script
 | VB.Net     | DotNet platform incl. mono|         |![Windows][Windows]|![Linux][Linux]![Mac OSX][OSX]| GUI/CLI       | Visual Basic DotNet
@@ -26,8 +26,11 @@
 | **Static:**
 | XML (HTML) | HTML: Rendering engines   |         |                   |                              | Browser       | eXtensible Markup Language (HyperText Markup Language)
 | CSS        | Rendering Engines         |         |                   |                              | Browser       | Cascading Style Sheet
-| YML        |                           |         |                   |                              | Other Programs| 
+| YML        |                           |         |                   |                              | Other Programs| YAML
+| HOCON      |                           |         |                   |                              | Other Programs| 
+| JSON       |                           |         |                   |                              | Other Programs| 
 | INI        |                           |         |                   |                              | Other Programs| 
+| Properties | Apparently it's a defined type|     |                   |                              | Other Programs| 
   [Windows]: http://png-1.findicons.com/files/icons/2075/windows_system_logo/16/windows_xp.png
   [Linux]: https://www.harryhomers.org/et/images/linux.png
   [OSX]: https://static.4kdownload.com/main/img/logo/osx-16.96553fbe79c1.png
