@@ -26,7 +26,6 @@
   - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
   - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
 - [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
-- [ ] [Batman](https://en.wikipedia.org/wiki/Batman_in_film)
 - [ ] [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Films):
   - [ ] Phase One: Avengers Assembled
     - [x] Iron Man
@@ -52,7 +51,10 @@
     - [ ] Captain Marvel
     - [ ] Inhumans
     - [ ] Avengers: Infinity War Part 2
+- [ ] [Batman (in film)](https://en.wikipedia.org/wiki/Batman_in_film)
 - [ ] [DC Films](https://en.wikipedia.org/wiki/List_of_films_based_on_DC_Comics#Live-action_films)
+  - [ ] [Batman (1989 film)](https://en.wikipedia.org/wiki/Batman_%281989_film%29)
+- [ ] Mad Max: Fury Road
 
 # Series
 
@@ -64,11 +66,16 @@
   - [x] Season 2
   - [x] Season 3
   - [x] Season 4
+  - [ ] Season 5
+  - [ ] Season 6
 - [ ] [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) [(since 2005)](https://en.wikipedia.org/wiki/History_of_Doctor_Who#2000s)
-  - [x] Season 1 - 2005
-  - [x] Season 2 - 2006
-  - [x] Season 3 - 2007
-  - [ ] Season 4 - 2008
-  - [ ] Season 5 - 2009
-  - [ ] Season 6 - 2011
-  - [ ] Season 7 - 2012
+  - [x] [Season 1 - 2005](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_1_.282005.29)
+  - [x] [Season 2 - 2006](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_2_.282006.29)
+  - [x] [Season 3 - 2007](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_3_.282007.29)
+  - [ ] [Season 4 - 2008](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_4_.282008.29)
+  - [ ] [Season 5 - 2009](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_5_.282010.29)
+  - [ ] [Season 6 - 2011](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_6_.282011.29)
+  - [ ] [Season 7 - 2012-13](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_7_.282012.E2.80.9313.29)
+  - [ ] [Season 8 - 2014](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_8_.282014.29)
+  - [ ] [Season 9 - 2015](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_9_.282015.29)
+  - [ ] [Season 10 - 2017](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_10)
