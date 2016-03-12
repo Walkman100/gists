@@ -1,13 +1,15 @@
 
-| Operator       | Visual Basic | Python      |
-|----------------|--------------|-------------|
-| Add            | `c = a + b`  | `c = a + b` |
-| Subtract       | `c = a - b`  | `c = a - b` |
-| Multiply       | `c = a * b`  | `c = a * b` |
-| Divide (true)  | `c = a / b`  | `c = a / b` |
-| Divide (floor) | `c = a \ b`  | `c = a // b`| 
-|Modulus division| `c = a Mod b`| `c = a % b` | 
-| Exponent       | `c = a ^ b`  | `c = a ** b`|
+| Operator       | Visual Basic | Python      | Java        | Lua         |
+|----------------|--------------|-------------|-------------|-------------|
+| Add            | `c = a + b`  | `c = a + b` |             | `c = a + b` |
+| Subtract       | `c = a - b`  | `c = a - b` |             | `c = a - b` |
+| Multiply       | `c = a * b`  | `c = a * b` |             | `c = a * b` |
+| Divide (true)  | `c = a / b`  | `c = a / b` |             | `c = a / b` |
+| Divide (floor) | `c = a \ b`  | `c = a // b`|             |`c = math.floor(a/b)`|
+|Modulus division| `c = a Mod b`| `c = a % b` |             | `c = a % b` |
+| Exponent       | `c = a ^ b`  | `c = a ** b`|             | `c = a ^ b` |
+| Concatenation  | `c = a & b`  | `c = a + b` |             | `c = a .. b`|
+| Comments       | `'` or `REM` | `#`         |             | `--`        |
 
 #### Divide (true)
 Normal division: `50 / 12 = 4.1̇̇6`
@@ -24,3 +26,8 @@ Only the remainder: `50 Mod 12 = 2` (remainder is still part of the fraction, so
 #### VB & Python
 [Python For Visual Basic Programmers](https://www.raspberrypi.org/learning/python-for-vb-programmers/worksheet/),
 `Arithmetic operators` heading
+
+#### Lua
+[Programming in Lua : 3.1](http://www.lua.org/pil/3.1.html)
+[Lua 5.1 Reference Manual ](http://www.lua.org/manual/5.1/manual.html),
+`2.1 – Lexical Conventions` and `2.5.1 – Arithmetic Operators`
