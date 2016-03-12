@@ -1,5 +1,6 @@
 ### VB
 (from [gdocs](https://docs.google.com/spreadsheets/d/1k2WZQ4e8kRPI1hvJDNh_Fy10SI-rzb6082Cke_wji2o))
+
 | Type:          | Can contain:  | (to)            | Size:     | (bits)    | Reference: |
 |---------------:|--------------:|:----------------|-----------|----------:|------------|
 |Character (Char)|         Any ch|aracter          | 1 byte    |  256 bits | 
