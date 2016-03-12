@@ -11,23 +11,24 @@
 | Concatenation  | `c = a & b`  | `c = a + b` |             | `c = a .. b`|
 | Comments       | `'` or `REM` | `#`         |             | `--`        |
 
-#### Divide (true)
+### Divide (true)
 Normal division: `50 / 12 = 4.1̇̇6`
 
-#### Divide (floor)
+### Divide (floor)
 No remainder: `50 \ 12 = 4`
 
-#### Modulus division
+### Modulus division
 Only the remainder: `50 Mod 12 = 2` (remainder is still part of the fraction, so `2/12 = 0.1̇̇6`)
 
 <!-- ![6 recurring](http://walkman100.github.com/images/embeddable-images/6-recurring.png) -->
 
-### References
-#### VB & Python
+## References
+### VB & Python
 [Python For Visual Basic Programmers](https://www.raspberrypi.org/learning/python-for-vb-programmers/worksheet/),
 `Arithmetic operators` heading
 
-#### Lua
+### Lua
 [Programming in Lua : 3.1](http://www.lua.org/pil/3.1.html)
+
 [Lua 5.1 Reference Manual ](http://www.lua.org/manual/5.1/manual.html),
 `2.1 – Lexical Conventions` and `2.5.1 – Arithmetic Operators`

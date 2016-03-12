@@ -9,7 +9,7 @@
 | Sbyte          | -128          | 127             | 1 byte    |  256 bits | 
 | Short          | -32768        | 32767           | 2 bytes   |  512 bits | 
 | UShort         | 0             | 65535           | 2 bytes   |  512 bits | 
-| Integer        | -2147483648   | 2147483647      | 4 bytes   | 1024 bits | [StackOverflow](https://stackoverflow.com/questions/94591/what-is-the-maximum-value-for-a-int32) or [direct](https://stackoverflow.com/a/20374349)
+| Integer        | -2147483648   | 2147483647      | 4 bytes   | 1024 bits | [StackOverflow](https://stackoverflow.com/a/20374349)
 | UInteger       | 0             | 4294967295      | 4 bytes   | 1024 bits | 
 | Long           |     Massive wh|ole numbers      | 8 bytes   | 2048 bits | 
 | ULong          |     Massive wh|ole numbers      | 8 bytes   | 2048 bits | 
