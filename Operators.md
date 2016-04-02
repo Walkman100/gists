@@ -1,15 +1,15 @@
 
 | Operator       | Visual Basic | Python      | Java        | Lua         |
 |----------------|--------------|-------------|-------------|-------------|
-| Add            | `c = a + b`  | `c = a + b` |             | `c = a + b` |
-| Subtract       | `c = a - b`  | `c = a - b` |             | `c = a - b` |
-| Multiply       | `c = a * b`  | `c = a * b` |             | `c = a * b` |
-| Divide (true)  | `c = a / b`  | `c = a / b` |             | `c = a / b` |
-| Divide (floor) | `c = a \ b`  | `c = a // b`|             |`c = math.floor(a/b)`|
-|Modulus division| `c = a Mod b`| `c = a % b` |             | `c = a % b` |
-| Exponent       | `c = a ^ b`  | `c = a ** b`|             | `c = a ^ b` |
-| Concatenation  | `c = a & b`  | `c = a + b` |             | `c = a .. b`|
-| Comments       | `'` or `REM` | `#`         |             | `--`        |
+| Add            | `c = a + b`  | `c = a + b` | `c = a + b` | `c = a + b` |
+| Subtract       | `c = a - b`  | `c = a - b` | `c = a - b` | `c = a - b` |
+| Multiply       | `c = a * b`  | `c = a * b` | `c = a * b` | `c = a * b` |
+| Divide (true)  | `c = a / b`  | `c = a / b` | `c = a / b` | `c = a / b` |
+| Divide (floor)|`c = a \ b`|`c = a // b`|`c = math.floor(a/b)`|`c = math.floor(a/b)`|
+|Modulus division| `c = a Mod b`| `c = a % b` | `c = a % b` | `c = a % b` |
+| Exponent       |`c = a ^ b`|`c = a ** b`|`c = math.pow(a,b)`|`c = a ^ b`|
+| Concatenation  | `c = a & b`  | `c = a + b` | `c = a + b` | `c = a .. b`|
+| Comments       | `'` or `REM` | `#` |`//` or `/* */`|`--` or `--[[ ]]--`|
 
 ### Divide (true)
 Normal division: `50 / 12 = 4.1̇̇6`
@@ -30,5 +30,8 @@ Only the remainder: `50 Mod 12 = 2` (remainder is still part of the fraction, so
 ### Lua
 [Programming in Lua : 3.1](http://www.lua.org/pil/3.1.html)
 
-[Lua 5.1 Reference Manual ](http://www.lua.org/manual/5.1/manual.html),
+[Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/manual.html),
 `2.1 – Lexical Conventions` and `2.5.1 – Arithmetic Operators`
+
+### Java
+[Java Language Spec (pow)](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html#pow%28double,%20double%29)
