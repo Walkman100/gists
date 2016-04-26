@@ -31,8 +31,8 @@
 | JSON       |                           |         |                   |                              | Other Programs| 
 | INI        |                           |         |                   |                              | Other Programs| 
 | Properties | Apparently it's a defined type|     |                   |                              | Other Programs| 
-  [Windows]: http://png-1.findicons.com/files/icons/2075/windows_system_logo/16/windows_xp.png
-  [Linux]: https://www.harryhomers.org/et/images/linux.png
-  [OSX]: https://static.4kdownload.com/main/img/logo/osx-16.96553fbe79c1.png
-  [Android]: http://yvanrodrigues.com/sites/yvanrodrigues.com/files/android.svg
-  [iOS]: http://www.whatvpn.com/images/icons/ios.png
+  [Windows]: http://walkman100.github.io/images/embeddable-images/windows_xp.png
+  [Linux]: http://walkman100.github.io/images/embeddable-images/linux.png
+  [OSX]: http://walkman100.github.io/images/embeddable-images/osx.png
+  [Android]: http://walkman100.github.io/images/embeddable-images/android.svg
+  [iOS]: http://walkman100.github.io/images/embeddable-images/ios.png
