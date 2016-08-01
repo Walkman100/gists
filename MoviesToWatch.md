@@ -51,9 +51,45 @@
     - [ ] Captain Marvel
     - [ ] Inhumans
     - [ ] Avengers: Infinity War Part 2
-- [ ] [Batman (in film)](https://en.wikipedia.org/wiki/Batman_in_film)
-- [ ] [DC Films](https://en.wikipedia.org/wiki/List_of_films_based_on_DC_Comics#Live-action_films)
-  - [ ] [Batman (1989 film)](https://en.wikipedia.org/wiki/Batman_%281989_film%29)
+- [DC Live-action Films](https://en.wikipedia.org/wiki/List_of_films_based_on_DC_Comics#Live-action_films):
+  - [ ] [Superman and the Mole Men](https://en.wikipedia.org/wiki/Superman_and_the_Mole_Men)
+  - [ ] [Batman (1966 film)](https://en.wikipedia.org/wiki/Batman_(1966_film))
+  - [ ] [Superman (1978 film)](https://en.wikipedia.org/wiki/Superman_(1978_film))
+  - [ ] [Superman II](https://en.wikipedia.org/wiki/Superman_II)
+  - [ ] [Swamp Thing](https://en.wikipedia.org/wiki/Swamp_Thing_(film))
+  - [ ] [Superman III](https://en.wikipedia.org/wiki/Superman_III)
+  - [ ] [Supergirl](https://en.wikipedia.org/wiki/Supergirl_(film))
+  - [ ] [Superman IV: The Quest for Peace](https://en.wikipedia.org/wiki/Superman_IV:_The_Quest_for_Peace)
+  - [ ] [The Return of Swamp Thing](https://en.wikipedia.org/wiki/The_Return_of_Swamp_Thing)
+  - [ ] [Batman (1989 film)](https://en.wikipedia.org/wiki/Batman_(1989_film))
+  - [ ] [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)
+  - [ ] [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever)
+  - [ ] [Batman & Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film))
+  - [ ] [Steel (1997 film)](https://en.wikipedia.org/wiki/Steel_(1997_film))
+  - [ ] [Catwoman](https://en.wikipedia.org/wiki/Catwoman_(film))
+  - [ ] [Constantine](https://en.wikipedia.org/wiki/Constantine_(film))
+  - [ ] [Batman Begins](https://en.wikipedia.org/wiki/Batman_Begins)
+  - [ ] [V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta_(film))
+  - [ ] [Superman Returns](https://en.wikipedia.org/wiki/Superman_Returns)
+  - [ ] [Superman II: The Richard Donner Cut](https://en.wikipedia.org/wiki/Superman_II:_The_Richard_Donner_Cut)
+  - [x] [The Dark Knight](https://en.wikipedia.org/wiki/The_Dark_Knight_(film))
+  - [ ] [Watchmen](https://en.wikipedia.org/wiki/Watchmen_(film))
+  - [ ] [The Losers](https://en.wikipedia.org/wiki/The_Losers_(film))
+  - [ ] [Jonah Hex](https://en.wikipedia.org/wiki/Jonah_Hex_(film))
+  - [ ] [Green Lantern](https://en.wikipedia.org/wiki/Green_Lantern_(film))
+  - [x] [The Dark Knight Rises](https://en.wikipedia.org/wiki/The_Dark_Knight_Rises)
+  - [ ] [Man of Steel](https://en.wikipedia.org/wiki/Man_of_Steel_(film))
+  - [ ] [Batman v Superman: Dawn of Justice](https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice)
+- Upcoming DC Live-action Films:
+  - [ ] [Suicide Squad](https://en.wikipedia.org/wiki/Suicide_Squad_(film))
+  - [ ] [Wonder Woman (2017 film)](https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film))
+  - [ ] [Justice League](https://en.wikipedia.org/wiki/Justice_League_(2017_film))
+  - [ ] [The Flash](https://en.wikipedia.org/wiki/The_Flash_(film))
+  - [ ] [Aquaman](https://en.wikipedia.org/wiki/Aquaman_(film))
+  - [ ] [Shazam](https://en.wikipedia.org/wiki/Shazam_(film))
+  - [ ] [Justice League Part Two](https://en.wikipedia.org/wiki/Justice_League_Part_Two)
+  - [ ] [Cyborg](https://en.wikipedia.org/wiki/Cyborg_(2020_film))
+  - [ ] [Green Lantern Corps](https://en.wikipedia.org/wiki/Green_Lantern_Corps_(film))
 - [ ] Mad Max: Fury Road
 
 # Series
