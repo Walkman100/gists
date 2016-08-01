@@ -13,6 +13,8 @@
   - [ ] [Revenge of the Fallen](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
   - [ ] [Dark of the Moon](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
   - [ ] [Age of Extinction](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
+- [ ] [Tron](https://en.wikipedia.org/wiki/Tron)
+  - [x] [Tron: Legacy](https://en.wikipedia.org/wiki/Tron:_Legacy)
 - [ ] [The Matrix](https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films)
   - [ ] [The Matrix (first film)](https://en.wikipedia.org/wiki/The_Matrix)
   - [ ] [The Matrix Reloaded](https://en.wikipedia.org/wiki/The_Matrix_Reloaded)
@@ -81,7 +83,7 @@
   - [ ] [Watchmen](https://en.wikipedia.org/wiki/Watchmen_(film))
   - [ ] [The Losers](https://en.wikipedia.org/wiki/The_Losers_(film))
   - [ ] [Jonah Hex](https://en.wikipedia.org/wiki/Jonah_Hex_(film))
-  - [ ] [Green Lantern](https://en.wikipedia.org/wiki/Green_Lantern_(film))
+  - [x] [Green Lantern](https://en.wikipedia.org/wiki/Green_Lantern_(film))
   - [x] [The Dark Knight Rises](https://en.wikipedia.org/wiki/The_Dark_Knight_Rises)
   - [ ] [Man of Steel](https://en.wikipedia.org/wiki/Man_of_Steel_(film))
   - [ ] [Batman v Superman: Dawn of Justice](https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice)
@@ -102,7 +104,7 @@
   - [ ] [X-Men Origins: Wolverine](https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine)
   - [ ] [X-Men: First Class](https://en.wikipedia.org/wiki/X-Men:_First_Class)
   - [ ] [The Wolverine](https://en.wikipedia.org/wiki/The_Wolverine_(film))
-  - [ ] [X-Men: Days of Future Past](https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past
+  - [ ] [X-Men: Days of Future Past](https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past)
   - [x] [Deadpool](https://en.wikipedia.org/wiki/Deadpool_(film))
   - [ ] [X-Men: Apocalypse](https://en.wikipedia.org/wiki/X-Men:_Apocalypse)
 - [ ] Mad Max: Fury Road
@@ -130,3 +132,21 @@
   - [ ] [Season 8 - 2014](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_8_.282014.29)
   - [ ] [Season 9 - 2015](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_9_.282015.29)
   - [ ] [Season 10 - 2017](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_10)
+
+### Anime
+
+- [ ] Infinite Stratos
+- [ ] Naruto
+- [ ] Dragon Ball Z
+- [ ] Yu-Gi-Oh
+- [ ] One Punch Man
+- [ ] RWBY
+- [ ] Angel Beats
+- [ ] Sailor Moon
+- [ ] Kill la Kill
+- [ ] Attack on Titan
+- [ ] Fullmetal Alchemist
+- [ ] Sword Art Online
+- [ ] Evangelion
+- [ ] Terminator: Sarah Connor Chronicles
+- [ ] V for Vendetta
