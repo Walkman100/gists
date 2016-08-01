@@ -25,7 +25,12 @@
   - [ ] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
   - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
   - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
-- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
+- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)#Films)
+  - [ ] [The Curse of the Black Pearl](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
+  - [ ] [Dead Man's Chest](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest)
+  - [ ] [At World's End](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End)
+  - [ ] [On Stranger Tides](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides)
+  - [ ] [Dead Men Tell No Tales](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales)
 - [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
   - [ ] [Phase One: Avengers Assembled](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled):
     - [x] Iron Man
