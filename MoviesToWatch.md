@@ -26,8 +26,8 @@
   - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
   - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
 - [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series))
-- [ ] [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
-  - [ ] [Phase One: Avengers Assembled](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled)
+- [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
+  - [ ] [Phase One: Avengers Assembled](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled):
     - [x] Iron Man
     - [ ] The Incredible Hulk
     - [x] Iron Man 2
@@ -35,12 +35,12 @@
     - [ ] Captain America: The First Avenger
     - [x] Marvel's The Avengers
   - [ ] [Phase Two](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_Two):
-    - [ ] Iron Man 3 
+    - [ ] Iron Man 3
     - [ ] Thor: The Dark World
     - [x] Captain America: The Winter Soldier
     - [ ] Guardians of the Galaxy
     - [ ] Avengers: Age of Ultron
-    - [ ] Ant-Man 
+    - [ ] Ant-Man
   - [ ] [Phase Three](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Future): (Not produced yet)
     - [ ] Captain America: Civil War
     - [ ] Doctor Strange
