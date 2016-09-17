@@ -1,5 +1,5 @@
 # Movies/Films
-- [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
+- [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars):
   - [x] [Episode I: The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_The_Phantom_Menace)
   - [x] [Episode II: Attack of the Clones](https://en.wikipedia.org/wiki/Star_Wars_Episode_II:_Attack_of_the_Clones)
   - [x] [Episode III: Revenge of the Sith](https://en.wikipedia.org/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith)
@@ -8,26 +8,26 @@
   - [x] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
   - [x] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
   - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
-- [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers)
+- [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers):
   - [x] [Transformers 1](https://en.wikipedia.org/wiki/Transformers_(film))
   - [ ] [Revenge of the Fallen](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
   - [ ] [Dark of the Moon](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
   - [ ] [Age of Extinction](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
 - [ ] [Tron](https://en.wikipedia.org/wiki/Tron)
   - [x] [Tron: Legacy](https://en.wikipedia.org/wiki/Tron:_Legacy)
-- [ ] [The Matrix](https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films)
+- [ ] [The Matrix](https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films):
   - [ ] [The Matrix (first film)](https://en.wikipedia.org/wiki/The_Matrix)
   - [ ] [The Matrix Reloaded](https://en.wikipedia.org/wiki/The_Matrix_Reloaded)
   - [ ] [The Matrix Revolutions](https://en.wikipedia.org/wiki/The_Matrix_Revolutions)
-- [ ] [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(film_series))
+- [ ] [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(film_series)):
   - [ ] [An Unexpected Journey](https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey)
   - [x] [The Desolation of Smaug](https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug)
   - [ ] [The Battle of the Five Armies](https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)
-- [ ] [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series))
+- [ ] [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)):
   - [ ] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
   - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
   - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
-- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)#Films)
+- [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)#Films):
   - [ ] [The Curse of the Black Pearl](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
   - [ ] [Dead Man's Chest](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest)
   - [ ] [At World's End](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End)

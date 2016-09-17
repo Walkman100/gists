@@ -1,4 +1,4 @@
-A list of all projects is available [here](http://walkman100.github.io/Walkman/HTML/Projects.html).
+A list of all projects is available [here](http://walkman100.github.io/projects).
 # [YTVL](https://github.com/Walkman100/YTVL)
 - [ ] Command line flags
 - [x] Update checker
