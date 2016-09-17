@@ -33,6 +33,11 @@
   - [ ] [At World's End](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End)
   - [ ] [On Stranger Tides](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides)
   - [ ] [Dead Men Tell No Tales](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales)
+- [ ] [Indiana Jones](https://en.wikipedia.org/wiki/Indiana_Jones#Film):
+  - [ ] [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
+  - [ ] [The Temple of Doom](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom)
+  - [ ] [The Last Crusade](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade)
+  - [ ] [The Kingdom of the Crystal Skull](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull)
 - [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
   - [ ] [Phase One: Avengers Assembled](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled):
     - [x] Iron Man
@@ -111,7 +116,45 @@
 
 # Series
 
-- [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek)
+- [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek#Television_series)
+  - [ ] [The Original Series](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
+    - [ ] [Pilots](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Pilots_.281964.E2.80.9365.29)
+    - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_1_.281966.E2.80.9367.29)
+    - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_2_.281967.E2.80.9368.29)
+    - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_3_.281968.E2.80.9369.29)
+  - [ ] [The Animated Series](https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series)
+    - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Animated_Series_episodes#Season_1_.281973.E2.80.9374.29)
+    - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Animated_Series_episodes#Season_2_.281974.29)
+  - [ ] [The Next Generation](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation)
+    - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_1_.281987.E2.80.9388.29)
+    - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_2_.281988.E2.80.9389.29)
+    - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_3_.281989.E2.80.9390.29)
+    - [ ] [Season 4](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_4_.281990.E2.80.9391.29)
+    - [ ] [Season 5](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_5_.281991.E2.80.9392.29)
+    - [ ] [Season 6](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_6_.281992.E2.80.9393.29)
+    - [ ] [Season 7](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_7_.281993.E2.80.9394.29)
+  - [ ] [Deep Space Nine](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine)
+    - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_1_.281993.29)
+    - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_2_.281993.E2.80.9394.29)
+    - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_3_.281994.E2.80.9395.29)
+    - [ ] [Season 4](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_4_.281995.E2.80.9396.29)
+    - [ ] [Season 5](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_5_.281996.E2.80.9397.29)
+    - [ ] [Season 6](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_6_.281997.E2.80.9398.29)
+    - [ ] [Season 7](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_7_.281998.E2.80.9399.29)
+  - [ ] [Voyager](https://en.wikipedia.org/wiki/Star_Trek:_Voyager)
+    - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_1_.281995.29)
+    - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_2_.281995.E2.80.9396.29)
+    - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_3_.281996.E2.80.9397.29)
+    - [ ] [Season 4](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_4_.281997.E2.80.9398.29)
+    - [ ] [Season 5](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_5_.281998.E2.80.9399.29)
+    - [ ] [Season 6](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_6_.281999.E2.80.932000.29)
+    - [ ] [Season 7](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_7_.282000.E2.80.9301.29)
+  - [ ] [Enterprise](https://en.wikipedia.org/wiki/Star_Trek:_Enterprise)
+    - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_1_.282001.E2.80.9302.29)
+    - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_2_.282002.E2.80.9303.29)
+    - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_3_.282003.E2.80.9304.29)
+    - [ ] [Season 4](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_4_.282004.E2.80.9305.29)
+  - [ ] [Discovery](https://en.wikipedia.org/wiki/Star_Trek:_Discovery)
 - [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
   - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
 - [x] [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones)
@@ -137,8 +180,11 @@
 
 - [ ] Infinite Stratos
 - [ ] Naruto
+- [ ] Dragon Ball (non-Z)
 - [ ] Dragon Ball Z
+- [ ] Dragon Ball GT
 - [ ] Yu-Gi-Oh
+- [ ] Bleach
 - [ ] One Punch Man
 - [ ] RWBY
 - [ ] Angel Beats
@@ -148,5 +194,7 @@
 - [ ] Fullmetal Alchemist
 - [ ] Sword Art Online
 - [ ] Evangelion
+- [ ] The Walking Dead
+- [ ] Code Geass
 - [ ] Terminator: Sarah Connor Chronicles
 - [ ] V for Vendetta
