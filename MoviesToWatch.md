@@ -2,12 +2,12 @@
 - [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars):
   - [x] [Episode I: The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_The_Phantom_Menace)
   - [x] [Episode II: Attack of the Clones](https://en.wikipedia.org/wiki/Star_Wars_Episode_II:_Attack_of_the_Clones)
+  - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
   - [x] [Episode III: Revenge of the Sith](https://en.wikipedia.org/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith)
   - [x] [Episode IV: A New Hope](https://en.wikipedia.org/wiki/Star_Wars_(film))
   - [x] [Episode V: The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)
   - [x] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
   - [x] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
-  - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
 - [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers):
   - [x] [Transformers 1](https://en.wikipedia.org/wiki/Transformers_(film))
   - [ ] [Revenge of the Fallen](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
@@ -176,7 +176,7 @@
   - [ ] [Season 9 - 2015](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_9_.282015.29)
   - [ ] [Season 10 - 2017](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_10)
 
-### Anime
+## Anime
 
 - [ ] Infinite Stratos
 - [ ] Naruto
@@ -198,3 +198,5 @@
 - [ ] Code Geass
 - [ ] Terminator: Sarah Connor Chronicles
 - [ ] V for Vendetta
+- [ ] Death Note
+- [ ] Higurashi no naku koro ni
