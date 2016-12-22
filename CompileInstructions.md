@@ -8,7 +8,7 @@ Replace `{project name}` with the GitHub repo you want to compile.
   - `..\WinCompile\compile {project name}` from the {project name} folder
   - `compile {project name}` from the `WinCompile` folder
 
-3. The script will automatically stop if one of the dependencies isn't found.
+3. The script will automatically stop if one of the dependencies isn't found and ask you to run the installer for the dependency.
 
 Project Compatibility (Only planned ones are listed) [OUTDATED]:
 - [x] [BasicBrowser](https://github.com/Walkman100/BasicBrowser)

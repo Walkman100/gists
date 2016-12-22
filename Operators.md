@@ -1,15 +1,15 @@
 
-| Operator       | Visual Basic | Python      | Java        | Lua         | C           | Windows Calculator |
-|----------------|--------------|-------------|-------------|-------------|-------------|--------------------|
-| Add            | `c = a + b`  | `c = a + b` | `c = a + b` | `c = a + b` | `c = a ? b` | `a + b`            |
-| Subtract       | `c = a - b`  | `c = a - b` | `c = a - b` | `c = a - b` | `c = a ? b` | `a - b`            |
-| Multiply       | `c = a * b`  | `c = a * b` | `c = a * b` | `c = a * b` | `c = a ? b` | `a * b`            |
-| Divide (true)  | `c = a / b`  | `c = a / b` | `c = a / b` | `c = a / b` | `c = a ? b` | `a / b`            |
-|Divide (floor)|`c = a \ b`|`c = a // b`|`c = Math.floor(a/b)`|`c = math.floor(a/b)`|`c = a ? b`|`Int(a / b)`|
-|Modulus division| `c = a Mod b`| `c = a % b` | `c = a % b` | `c = a % b` | `c = a ? b` | `a Mod b`          |
-| Exponent       |`c = a ^ b`|`c = a ** b`|`c = Math.pow(a,b)`|`c = a ^ b`| `c = a ? b` | `a ^ b`            |
-| Concatenation  | `c = a & b`  | `c = a + b` | `c = a + b` | `c = a .. b`| `c = a ? b` | N/A                |
-| Comments       | `'` or `REM` | `#` |`//` or `/* */`|`--` or `--[[ ]]--`|`//` or `/* */`| N/A              |
+| Operator       | VB.Net       | Python      | Java                | Lua                 | C             |Windows Calculator|
+|----------------|--------------|-------------|---------------------|---------------------|---------------|------------------|
+| Add            | `c = a + b`  | `c = a + b` | `c = a + b`         | `c = a + b`         | `c = a ? b`   | `a + b`          |
+| Subtract       | `c = a - b`  | `c = a - b` | `c = a - b`         | `c = a - b`         | `c = a ? b`   | `a - b`          |
+| Multiply       | `c = a * b`  | `c = a * b` | `c = a * b`         | `c = a * b`         | `c = a ? b`   | `a * b`          |
+| Divide (true)  | `c = a / b`  | `c = a / b` | `c = a / b`         | `c = a / b`         | `c = a ? b`   | `a / b`          |
+|Divide (floor)  |`c = a \ b`   |`c = a // b` |`c = Math.floor(a/b)`|`c = math.floor(a/b)`| `c = a ? b`   |`Int(a / b)`      |
+|Modulus division| `c = a Mod b`| `c = a % b` | `c = a % b`         | `c = a % b`         | `c = a ? b`   | `a Mod b`        |
+| Exponent       |`c = a ^ b`   |`c = a ** b` |`c = Math.pow(a,b)`  |`c = a ^ b`          | `c = a ? b`   | `a ^ b`          |
+| Concatenation  | `c = a & b`  | `c = a + b` | `c = a + b`         | `c = a .. b`        | `c = a ? b`   | N/A              |
+| Comments       | `'` or `REM` | `#`         |`//` or `/* */`      | `--` or `--[[ ]]--` |`//` or `/* */`| N/A              |
 
 ### Divide (true)
 Normal division: `50 / 12 = 4.1̇̇6`
