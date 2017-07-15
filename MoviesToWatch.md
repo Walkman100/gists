@@ -116,6 +116,26 @@
 
 # Series
 
+- [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
+  - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
+- [x] [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones)
+  - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_1_.282011.29)
+  - [x] [Season 2](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_2_.282012.29)
+  - [x] [Season 3](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_3_.282013.29)
+  - [x] [Season 4](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_4_.282014.29)
+  - [ ] [Season 5](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_5_.282015.29)
+  - [ ] [Season 6](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_6_.282016.29)
+- [ ] [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) [(since 2005)](https://en.wikipedia.org/wiki/History_of_Doctor_Who#2000s)
+  - [x] [Season 1 - 2005](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_1_.282005.29)
+  - [x] [Season 2 - 2006](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_2_.282006.29)
+  - [x] [Season 3 - 2007](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_3_.282007.29)
+  - [ ] [Season 4 - 2008](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_4_.282008.29)
+  - [ ] [Season 5 - 2009](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_5_.282010.29)
+  - [ ] [Season 6 - 2011](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_6_.282011.29)
+  - [ ] [Season 7 - 2012-13](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_7_.282012.E2.80.9313.29)
+  - [ ] [Season 8 - 2014](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_8_.282014.29)
+  - [ ] [Season 9 - 2015](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_9_.282015.29)
+  - [ ] [Season 10 - 2017](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_10)
 - [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek#Television_series)
   - [ ] [The Original Series](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
     - [ ] [Pilots](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Pilots_.281964.E2.80.9365.29)
@@ -155,29 +175,17 @@
     - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_3_.282003.E2.80.9304.29)
     - [ ] [Season 4](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_4_.282004.E2.80.9305.29)
   - [ ] [Discovery](https://en.wikipedia.org/wiki/Star_Trek:_Discovery)
-- [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
-  - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
-- [x] [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones)
-  - [x] Season 1
-  - [x] Season 2
-  - [x] Season 3
-  - [x] Season 4
-  - [ ] Season 5
-  - [ ] Season 6
-- [ ] [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) [(since 2005)](https://en.wikipedia.org/wiki/History_of_Doctor_Who#2000s)
-  - [x] [Season 1 - 2005](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_1_.282005.29)
-  - [x] [Season 2 - 2006](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_2_.282006.29)
-  - [x] [Season 3 - 2007](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_3_.282007.29)
-  - [ ] [Season 4 - 2008](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_4_.282008.29)
-  - [ ] [Season 5 - 2009](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_5_.282010.29)
-  - [ ] [Season 6 - 2011](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_6_.282011.29)
-  - [ ] [Season 7 - 2012-13](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_7_.282012.E2.80.9313.29)
-  - [ ] [Season 8 - 2014](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_8_.282014.29)
-  - [ ] [Season 9 - 2015](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_9_.282015.29)
-  - [ ] [Season 10 - 2017](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_10)
+- [ ] [Danny Phantom]()
+- [ ] Mr. Robot ("TV show with accurate hacking")
+- [ ] Futurama
+- [ ] Breaking Bad
+- [ ] Teen Titans
+- [ ] Seinfield
+- [ ] Rick and Morty
 
 ## Anime
 
+- [x] [RWBY](https://www.youtube.com/playlist?list=PLFw_6jJxziT0lVoUGtXPOoFUnccjjxJug)
 - [ ] Infinite Stratos
 - [ ] Naruto
 - [ ] Dragon Ball (non-Z)
@@ -186,11 +194,11 @@
 - [ ] Yu-Gi-Oh
 - [ ] Bleach
 - [ ] One Punch Man
-- [ ] RWBY
+- [ ] Attack on Titan
+- [ ] Deadman Wonderland
 - [ ] Angel Beats
 - [ ] Sailor Moon
 - [ ] Kill la Kill
-- [ ] Attack on Titan
 - [ ] Fullmetal Alchemist
 - [ ] Sword Art Online
 - [ ] Evangelion
