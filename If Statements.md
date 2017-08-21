@@ -60,7 +60,7 @@ else
 ### Python
 Method one:
 ```python
-if <variable> == <value>:
+if [not] <variable> == <value>:
     <code>
 elif <variable> == <value>:
     <code>

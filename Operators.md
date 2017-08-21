@@ -24,8 +24,8 @@ Only the remainder: `50 Mod 12 = 2` (remainder is still part of the fraction, so
 
 ## References
 ### VB & Python
-[Python For Visual Basic Programmers](https://www.raspberrypi.org/learning/python-for-vb-programmers/worksheet/),
-`Arithmetic operators` heading
+[Python For Visual Basic Programmers](https://github.com/raspberrypilearning/python-for-vb-programmers/blob/master/worksheet.md#arithmetic-operators)
+(`Arithmetic operators` heading)
 
 ### Lua
 [Programming in Lua : 3.1](http://www.lua.org/pil/3.1.html)
