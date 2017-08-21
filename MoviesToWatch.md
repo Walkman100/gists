@@ -4,6 +4,7 @@
   - [x] [Episode II: Attack of the Clones](https://en.wikipedia.org/wiki/Star_Wars_Episode_II:_Attack_of_the_Clones)
   - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
   - [x] [Episode III: Revenge of the Sith](https://en.wikipedia.org/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith)
+  - [x] [Episode III.9: Rogue One: A Star Wars Story](https://en.wikipedia.org/wiki/Rogue_One)
   - [x] [Episode IV: A New Hope](https://en.wikipedia.org/wiki/Star_Wars_(film))
   - [x] [Episode V: The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)
   - [x] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
@@ -44,7 +45,7 @@
     - [ ] The Incredible Hulk
     - [x] Iron Man 2
     - [ ] Thor
-    - [ ] Captain America: The First Avenger
+    - [x] Captain America: The First Avenger
     - [x] Marvel's The Avengers
   - [ ] [Phase Two](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_Two):
     - [ ] Iron Man 3
@@ -53,7 +54,7 @@
     - [ ] Guardians of the Galaxy
     - [ ] Avengers: Age of Ultron
     - [ ] Ant-Man
-  - [ ] [Phase Three](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Future): (Not produced yet)
+  - [ ] [Phase Three](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_Three) and [Future](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Future):
     - [ ] Captain America: Civil War
     - [ ] Doctor Strange
     - [ ] Guardians of the Galaxy 2
