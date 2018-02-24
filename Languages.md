@@ -31,6 +31,7 @@
 | JSON       |                           |         |                   |                              | Other Programs| 
 | INI        |                           |         |                   |                              | Other Programs| 
 | Properties | Apparently it's a defined type|     |                   |                              | Other Programs| 
+
   [Windows]: http://walkman100.github.io/images/embeddable-images/windows_xp.png
   [Linux]: http://walkman100.github.io/images/embeddable-images/linux.png
   [OSX]: http://walkman100.github.io/images/embeddable-images/osx.png
