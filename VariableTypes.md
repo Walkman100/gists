@@ -25,20 +25,8 @@
 | Single|-340282346638529000000000000000000000000|340282346638529000000000000000000000000|4 bytes|1024 bits| 
 | Double  |-1,79769313486232E+308|1,79769313486232E+308|8 bytes| 2048 bits | See [this gist](https://gist.github.com/Walkman100/b4e3c185bdaca9ccb8c9d2b23361b8dc#file-output-windows-txt) for full length
 
-### Java
-| Type:          | Can contain:  | (to)            | Size:     | (bits)    | Reference: |
-|---------------:|--------------:|:----------------|-----------|----------:|------------|
-| byte           | -128          | 127             | 1 byte    |     8-bit | [OracleDocs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-| short          | -32768        | 32767           |           |    16-bit | 
-| int            | -231          | 230             |           |    32-bit | 
-| long           | -263          | 262             |           |    64-bit | 
-| float          |               |                 |           |    32-bit | [Java Language Spec](https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.2.3)
-| double         |               |                 |           |    64-bit | 
-| boolean        |          true | false           |           |     1 bit | 
-| char           | \u0000 (or 0) | \uffff (65535)  |           |    32-bit | 
-|java.lang.String| 
-
 ### WinAPI (C++)
+
 | Type:          | Can contain:  | (to)            | Size:     | (bits)    | Reference: |
 |---------------:|--------------:|:----------------|-----------|----------:|------------|
 | FLOAT          |               |                 |           |           | [Windows Data Types](https://msdn.microsoft.com/en-us/library/windows/desktop/aa383751(v=vs.85).aspx)
@@ -74,6 +62,20 @@
 | INT64          |-9223372036854775808|9223372036854775807|    |    64-bit | 
 | LONG64         |-9223372036854775808|9223372036854775807|    |    64-bit | 
 | LONGLONG       |-9223372036854775808|9223372036854775807|    |    64-bit | 
+
+### Java
+
+| Type:          | Can contain:  | (to)            | Size:     | (bits)    | Reference: |
+|---------------:|--------------:|:----------------|-----------|----------:|------------|
+| byte           | -128          | 127             | 1 byte    |     8-bit | [OracleDocs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+| short          | -32768        | 32767           |           |    16-bit | 
+| int            | -231          | 230             |           |    32-bit | 
+| long           | -263          | 262             |           |    64-bit | 
+| float          |               |                 |           |    32-bit | [Java Language Spec](https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.2.3)
+| double         |               |                 |           |    64-bit | 
+| boolean        |          true | false           |           |     1 bit | 
+| char           | \u0000 (or 0) | \uffff (65535)  |           |    32-bit | 
+|java.lang.String| 
 
 ### Python
 
