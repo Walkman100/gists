@@ -43,7 +43,7 @@
 - [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
   - [ ] [Phase One: Avengers Assembled](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled):
     - [x] Iron Man
-    - [ ] The Incredible Hulk
+    - [x] The Incredible Hulk
     - [x] Iron Man 2
     - [ ] Thor
     - [x] Captain America: The First Avenger

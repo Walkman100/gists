@@ -3,21 +3,27 @@
 
 | Type:          | Can contain:  | (to)            | Size:     | (bits)    | Reference: |
 |---------------:|--------------:|:----------------|-----------|----------:|------------|
-|Character (Char)|           Any | character       | 1 byte    |  256 bits | 
-| String         | Up to about 2|billion characters|2 bytes per|character  | 
-| Byte           | 0             | 255             | 1 byte    |  256 bits | 
-| Sbyte          | -128          | 127             | 1 byte    |  256 bits | 
-| Short          | -32768        | 32767           | 2 bytes   |  512 bits | 
-| UShort         | 0             | 65535           | 2 bytes   |  512 bits | 
-| Integer        | -2147483648   | 2147483647      | 4 bytes   | 1024 bits | [StackOverflow](https://stackoverflow.com/a/20374349)
-| UInteger       | 0             | 4294967295      | 4 bytes   | 1024 bits | 
-| Long           |       Massive | whole numbers   | 8 bytes   | 2048 bits | 
-| ULong          |       Massive | whole numbers   | 8 bytes   | 2048 bits | 
-| Single         |          Real | numbers         | 4 bytes   | 1024 bits | 
-| Double         |          Real | numbers         | 8 bytes   | 2048 bits | 
-| Decimal        |          Real | numbers         | 16 bytes  | 4096 bits | 
 | Boolean        |          True | False           |           |    1 bit_ | 
 | Date           | Jan 1st, 0001 | Dec 31st, 9999  | 8 bytes   | 2048 bits | 
+|Character (Char)|           Any | character       | 1 byte    |  256 bits | 
+| String         | Up to about 2|billion characters|2 bytes per|character  | 
+| Byte           | 0             | 255             | 1 byte    |  256 bits | [Gist: This program I made](https://gist.github.com/Walkman100/b4e3c185bdaca9ccb8c9d2b23361b8dc#file-output-windows-txt)
+| UShort         | 0             | 65535           | 2 bytes   |  512 bits | 
+| UInt16         | 0             | 65535           | 2 bytes   |  512 bits | 
+| UInteger       | 0             | 4294967295      | 4 bytes   | 1024 bits | 
+| UInt32         | 0             | 4294967295      | 4 bytes   | 1024 bits | 
+| ULong          | 0          |18446744073709551615| 8 bytes   | 2048 bits | 
+| UInt64         | 0          |18446744073709551615| 8 bytes   | 2048 bits | 
+| Sbyte          | -128          | 127             | 1 byte    |  256 bits | 
+| Short          | -32768        | 32767           | 2 bytes   |  512 bits | 
+| Int16          | -32768        | 32767           | 2 bytes   |  512 bits | 
+| Integer        | -2147483648   | 2147483647      | 4 bytes   | 1024 bits | [StackOverflow](https://stackoverflow.com/a/20374349)
+| Int32          | -2147483648   | 2147483647      | 4 bytes   | 1024 bits | 
+| Long      |-9223372036854775808|9223372036854775807|8 bytes  | 2048 bits | 
+| Int64     |-9223372036854775808|9223372036854775807|8 bytes  | 2048 bits | 
+| Decimal|-79228162514264337593543950335|79228162514264337593543950335|16 bytes|4096 bits| 
+| Single|-340282346638529000000000000000000000000|340282346638529000000000000000000000000|4 bytes|1024 bits| 
+| Double  |-1,79769313486232E+308|1,79769313486232E+308|8 bytes| 2048 bits | See [this gist](https://gist.github.com/Walkman100/b4e3c185bdaca9ccb8c9d2b23361b8dc#file-output-windows-txt) for full length
 
 ### Java
 | Type:          | Can contain:  | (to)            | Size:     | (bits)    | Reference: |
