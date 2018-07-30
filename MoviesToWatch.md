@@ -2,15 +2,17 @@
 - [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars#Theatrical_films):
   - [x] [Episode I: The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace)
   - [x] [Episode II: Attack of the Clones](https://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones)
-  - [ ] [The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
+  - [ ] [Star Wars: The Clone Wars (film)](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(film))
   - [x] [Episode III: Revenge of the Sith](https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith)
+  - [ ] [Episode III.5: Solo: A Star Wars Story](https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story)
   - [x] [Episode III.9: Rogue One: A Star Wars Story](https://en.wikipedia.org/wiki/Rogue_One)
   - [x] [Episode IV: A New Hope](https://en.wikipedia.org/wiki/Star_Wars_(film))
   - [x] [Episode V: The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)
   - [x] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
   - [x] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
   - [ ] [Episode VIII: The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi)
-- [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers):
+  - [ ] [Episode IX](https://en.wikipedia.org/wiki/Star_Wars:_Episode_IX)
+- [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers_(film_series)):
   - [x] [Transformers 1](https://en.wikipedia.org/wiki/Transformers_(film))
   - [ ] [Revenge of the Fallen](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
   - [ ] [Dark of the Moon](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
