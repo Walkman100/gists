@@ -43,7 +43,7 @@
   - [ ] [The Last Crusade](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade)
   - [ ] [The Kingdom of the Crystal Skull](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull)
 - [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
-  - [ ] [Phase One: Avengers Assembled](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled):
+  - [ ] [Phase One](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One):
     - [x] Iron Man
     - [x] The Incredible Hulk
     - [x] Iron Man 2
@@ -60,13 +60,16 @@
   - [ ] [Phase Three](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_Three) and [Future](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Future):
     - [ ] Captain America: Civil War
     - [ ] Doctor Strange
-    - [ ] Guardians of the Galaxy 2
+    - [ ] Guardians of the Galaxy Vol. 2
+    - [ ] Spider-Man: Homecoming
     - [ ] Thor: Ragnarok
     - [ ] Black Panther
-    - [ ] Avengers: Infinity War Part 1
+    - [ ] Avengers: Infinity War
+    - [ ] Ant-Man and the Wasp
     - [ ] Captain Marvel
-    - [ ] Inhumans
-    - [ ] Avengers: Infinity War Part 2
+    - [ ] Avengers: Infinity War Part 2 (Untitled Avengers film)
+    - [ ] Spider-Man: Far From Home
+    - [ ] Guardians of the Galaxy Vol. 3
 - [DC Live-action Films](https://en.wikipedia.org/wiki/List_of_films_based_on_DC_Comics#Live-action_films):
   - [ ] [Superman and the Mole Men](https://en.wikipedia.org/wiki/Superman_and_the_Mole_Men)
   - [ ] [Batman (1966 film)](https://en.wikipedia.org/wiki/Batman_(1966_film))
@@ -74,7 +77,7 @@
   - [ ] [Superman II](https://en.wikipedia.org/wiki/Superman_II)
   - [ ] [Swamp Thing](https://en.wikipedia.org/wiki/Swamp_Thing_(film))
   - [ ] [Superman III](https://en.wikipedia.org/wiki/Superman_III)
-  - [ ] [Supergirl](https://en.wikipedia.org/wiki/Supergirl_(film))
+  - [ ] [Supergirl](https://en.wikipedia.org/wiki/Supergirl_(1984_film))
   - [ ] [Superman IV: The Quest for Peace](https://en.wikipedia.org/wiki/Superman_IV:_The_Quest_for_Peace)
   - [ ] [The Return of Swamp Thing](https://en.wikipedia.org/wiki/The_Return_of_Swamp_Thing)
   - [ ] [Batman (1989 film)](https://en.wikipedia.org/wiki/Batman_(1989_film))
@@ -94,18 +97,18 @@
   - [ ] [Jonah Hex](https://en.wikipedia.org/wiki/Jonah_Hex_(film))
   - [x] [Green Lantern](https://en.wikipedia.org/wiki/Green_Lantern_(film))
   - [x] [The Dark Knight Rises](https://en.wikipedia.org/wiki/The_Dark_Knight_Rises)
+- [DC Extended Universe](https://en.wikipedia.org/wiki/DC_Extended_Universe):
   - [ ] [Man of Steel](https://en.wikipedia.org/wiki/Man_of_Steel_(film))
   - [ ] [Batman v Superman: Dawn of Justice](https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice)
-- Upcoming DC Live-action Films:
   - [ ] [Suicide Squad](https://en.wikipedia.org/wiki/Suicide_Squad_(film))
-  - [ ] [Wonder Woman (2017 film)](https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film))
-  - [ ] [Justice League](https://en.wikipedia.org/wiki/Justice_League_(2017_film))
-  - [ ] [The Flash](https://en.wikipedia.org/wiki/The_Flash_(film))
+  - [x] [Wonder Woman](https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film))
+  - [ ] [Justice League](https://en.wikipedia.org/wiki/Justice_League_(film))
+  - [Upcoming](https://en.wikipedia.org/wiki/DC_Extended_Universe#Upcoming_films):
   - [ ] [Aquaman](https://en.wikipedia.org/wiki/Aquaman_(film))
-  - [ ] [Shazam](https://en.wikipedia.org/wiki/Shazam_(film))
-  - [ ] [Justice League Part Two](https://en.wikipedia.org/wiki/Justice_League_Part_Two)
+  - [ ] [Shazam!](https://en.wikipedia.org/wiki/Shazam!_(film))
+  - [ ] [Wonder Woman 1984](https://en.wikipedia.org/wiki/Wonder_Woman_1984)
   - [ ] [Cyborg](https://en.wikipedia.org/wiki/Cyborg_(2020_film))
-  - [ ] [Green Lantern Corps](https://en.wikipedia.org/wiki/Green_Lantern_Corps_(film))
+  - [ ] [Green Lantern Corps](https://en.wikipedia.org/wiki/DC_Extended_Universe#Green_Lantern_Corps_(2020))
 - [X-Men](https://en.wikipedia.org/wiki/X-Men_(film_series)#Films):
   - [ ] [X-Men](https://en.wikipedia.org/wiki/X-Men_(film))
   - [ ] [X2](https://en.wikipedia.org/wiki/X2_(film))
