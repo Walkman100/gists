@@ -126,7 +126,24 @@
   - [Upcoming films](https://en.wikipedia.org/wiki/X-Men_(film_series)#Upcoming_films):
   - [ ] [Dark Phoenix](https://en.wikipedia.org/wiki/Dark_Phoenix_(film))
   - [ ] [The New Mutants](https://en.wikipedia.org/wiki/The_New_Mutants_(film))
-- [ ] Mad Max: Fury Road
+- [ ] [Standalone Spider-Man franchise films](https://en.wikipedia.org/wiki/Spider-Man_in_film):
+  - [ ] [Spider-Man 1](https://en.wikipedia.org/wiki/Spider-Man_(2002_film))
+  - [ ] [Spider-Man 2](https://en.wikipedia.org/wiki/Spider-Man_2)
+  - [ ] [Spider-Man 3](https://en.wikipedia.org/wiki/Spider-Man_3)
+  - [ ] [The Amazing Spider-Man](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(2012_film))
+  - [ ] [The Amazing Spider-Man 2](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2)
+- [ ] [Mad Max](https://en.wikipedia.org/wiki/Mad_Max_(franchise)#Films):
+  - [ ] [Mad Max 1](https://en.wikipedia.org/wiki/Mad_Max)
+  - [ ] [Mad Max 2](https://en.wikipedia.org/wiki/Mad_Max_2)
+  - [ ] [Beyond Thunderdome](https://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome)
+  - [ ] [Fury Road](https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road)
+- [ ] [The Martian](https://en.wikipedia.org/wiki/The_Martian_(film))
+- [ ] [Baby Driver](https://en.wikipedia.org/wiki/Baby_Driver)
+- [ ] [Polar Express](https://en.wikipedia.org/wiki/The_Polar_Express_(film))
+- [x] [Cars](https://en.wikipedia.org/wiki/Cars_(franchise)#Film_series):
+  - [x] [Cars 1](https://en.wikipedia.org/wiki/Cars_(film))
+  - [x] [Cars 2](https://en.wikipedia.org/wiki/Cars_2)
+  - [x] [Cars 3](https://en.wikipedia.org/wiki/Cars_3)
 
 # Series
 
