@@ -109,7 +109,7 @@
   - [ ] [Wonder Woman 1984](https://en.wikipedia.org/wiki/Wonder_Woman_1984)
   - [ ] [Cyborg](https://en.wikipedia.org/wiki/Cyborg_(2020_film))
   - [ ] [Green Lantern Corps](https://en.wikipedia.org/wiki/DC_Extended_Universe#Green_Lantern_Corps_(2020))
-- [X-Men](https://en.wikipedia.org/wiki/X-Men_(film_series)#Films):
+- [X-Men](https://en.wikipedia.org/wiki/X-Men_(film_series)#Released_films):
   - [ ] [X-Men](https://en.wikipedia.org/wiki/X-Men_(film))
   - [ ] [X2](https://en.wikipedia.org/wiki/X2_(film))
   - [ ] [X-Men: The Last Stand](https://en.wikipedia.org/wiki/X-Men:_The_Last_Stand)
@@ -119,6 +119,11 @@
   - [ ] [X-Men: Days of Future Past](https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past)
   - [x] [Deadpool](https://en.wikipedia.org/wiki/Deadpool_(film))
   - [ ] [X-Men: Apocalypse](https://en.wikipedia.org/wiki/X-Men:_Apocalypse)
+  - [ ] [Logan](https://en.wikipedia.org/wiki/Logan_(2017_film))
+  - [ ] [Deadpool 2](https://en.wikipedia.org/wiki/Deadpool_2)
+  - [Upcoming films](https://en.wikipedia.org/wiki/X-Men_(film_series)#Upcoming_films):
+  - [ ] [Dark Phoenix](https://en.wikipedia.org/wiki/Dark_Phoenix_(film))
+  - [ ] [The New Mutants](https://en.wikipedia.org/wiki/The_New_Mutants_(film))
 - [ ] Mad Max: Fury Road
 
 # Series
