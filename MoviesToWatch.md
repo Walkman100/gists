@@ -17,6 +17,8 @@
   - [ ] [Revenge of the Fallen](https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen)
   - [ ] [Dark of the Moon](https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon)
   - [ ] [Age of Extinction](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
+  - [ ] [The Last Knight](https://en.wikipedia.org/wiki/Transformers:_The_Last_Knight)
+  - [ ] [Bumblebee](https://en.wikipedia.org/wiki/Bumblebee_(film))
 - [ ] [Tron](https://en.wikipedia.org/wiki/Tron)
   - [x] [Tron: Legacy](https://en.wikipedia.org/wiki/Tron:_Legacy)
 - [ ] [The Matrix](https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films):
@@ -199,6 +201,9 @@
 ## Anime
 
 - [x] [RWBY](https://www.youtube.com/playlist?list=PLFw_6jJxziT0lVoUGtXPOoFUnccjjxJug)
+- [x] [Haifuri](https://en.wikipedia.org/wiki/High_School_Fleet)
+- [x] Konosuba
+- [ ] [Girls Und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)
 - [ ] Infinite Stratos
 - [ ] Naruto
 - [ ] Dragon Ball (non-Z)
@@ -216,6 +221,12 @@
 - [ ] Sword Art Online
 - [ ] Evangelion
 - [ ] The Walking Dead
+- [ ] Servant X Service
+- [ ] Kyoukai no Kanata
+- [ ] Nichijou
+- [ ] Plastic Memories
+- [ ] Chuunibyou demo Koi ga Shitai!
+- [ ] Bakemonogatari
 - [ ] Code Geass
 - [ ] Terminator: Sarah Connor Chronicles
 - [ ] V for Vendetta
