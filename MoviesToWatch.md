@@ -163,7 +163,7 @@
   - [ ] [Series 4 (2008)](https://en.wikipedia.org/wiki/Doctor_Who_(series_4))
   - [ ] [Series 5 (2010)](https://en.wikipedia.org/wiki/Doctor_Who_(series_5))
   - [ ] [Series 6 (2011)](https://en.wikipedia.org/wiki/Doctor_Who_(series_6))
-  - [ ] [Series 7 (2012–2013)](https://en.wikipedia.org/wiki/Doctor_Who_(series_7))
+  - [ ] [Series 7 (2012–13)](https://en.wikipedia.org/wiki/Doctor_Who_(series_7))
   - [ ] [Series 8 (2014)](https://en.wikipedia.org/wiki/Doctor_Who_(series_8))
   - [ ] [Series 9 (2015)](https://en.wikipedia.org/wiki/Doctor_Who_(series_9))
   - [ ] [Series 10 (2017)](https://en.wikipedia.org/wiki/Doctor_Who_(series_10))
@@ -208,6 +208,9 @@
     - [ ] [Season 4](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_4_.282004.E2.80.9305.29)
   - [ ] [Discovery](https://en.wikipedia.org/wiki/Star_Trek:_Discovery)
 - [ ] [Danny Phantom](https://en.wikipedia.org/wiki/Danny_Phantom)
+  - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_1_(2004%E2%80%9305))
+  - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_2_(2005%E2%80%9306))
+  - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_3_(2006%E2%80%9307))
 - [ ] Mr. Robot ("TV show with accurate hacking")
 - [ ] Futurama
 - [ ] Breaking Bad
