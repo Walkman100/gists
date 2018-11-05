@@ -1,15 +1,15 @@
 
-| Operator       | VB.Net       | Python      | Java                | Lua                 | C             |Windows Calculator|
-|----------------|--------------|-------------|---------------------|---------------------|---------------|------------------|
-| Add            | `c = a + b`  | `c = a + b` | `c = a + b`         | `c = a + b`         | `c = a ? b`   | `a + b`          |
-| Subtract       | `c = a - b`  | `c = a - b` | `c = a - b`         | `c = a - b`         | `c = a ? b`   | `a - b`          |
-| Multiply       | `c = a * b`  | `c = a * b` | `c = a * b`         | `c = a * b`         | `c = a ? b`   | `a * b`          |
-| Divide (true)  | `c = a / b`  | `c = a / b` | `c = a / b`         | `c = a / b`         | `c = a ? b`   | `a / b`          |
-|Divide (floor)  | `c = a \ b`  | `c = a // b`|`c = Math.floor(a/b)`|`c = math.floor(a/b)`| `c = a ? b`   | `Int(a / b)`     |
-|Modulus division| `c = a Mod b`| `c = a % b` | `c = a % b`         | `c = a % b`         | `c = a ? b`   | `a Mod b`        |
-| Exponent       | `c = a ^ b`  | `c = a ** b`| `c = Math.pow(a,b)` | `c = a ^ b`         | `c = a ? b`   | `a ^ b`          |
-| Concatenation  | `c = a & b`  | `c = a + b` | `c = a + b`         | `c = a .. b`        | `c = a ? b`   | N/A              |
-| Comments       | `'` or `REM` | `#`         | `//` or `/* */`     | `--` or `--[[ ]]--` |`//` or `/* */`| N/A              |
+| Operator       | VB.Net       | Python      | Java                | Lua                 | C                |Windows Calculator|
+|----------------|--------------|-------------|---------------------|---------------------|------------------|------------------|
+| Add            | `c = a + b`  | `c = a + b` | `c = a + b`         | `c = a + b`         | `c = a + b`      | `a + b`          |
+| Subtract       | `c = a - b`  | `c = a - b` | `c = a - b`         | `c = a - b`         | `c = a - b`      | `a - b`          |
+| Multiply       | `c = a * b`  | `c = a * b` | `c = a * b`         | `c = a * b`         | `c = a * b`      | `a * b`          |
+| Divide (true)  | `c = a / b`  | `c = a / b` | `c = a / b`         | `c = a / b`         | `c = a / b`      | `a / b`          |
+|Divide (floor)  | `c = a \ b`  | `c = a // b`|`c = Math.floor(a/b)`|`c = math.floor(a/b)`| `c = floor(a/b)` | `Int(a / b)`     |
+|Modulus division| `c = a Mod b`| `c = a % b` | `c = a % b`         | `c = a % b`         | `c = a % b`      | `a Mod b`        |
+| Exponent       | `c = a ^ b`  | `c = a ** b`| `c = Math.pow(a,b)` | `c = a ^ b`         | `c = pow(a, b)`  | `a ^ b`          |
+| Concatenation  | `c = a & b`  | `c = a + b` | `c = a + b`         | `c = a .. b`        |`c = strcat(a, b)`| N/A              |
+| Comments       | `'` or `REM` | `#`         | `//` or `/* */`     | `--` or `--[[ ]]--` |`//` or `/* */`   | N/A              |
 
 ### Divide (true)
 Normal division: `50 / 12 = 4.1̇̇6`
@@ -35,3 +35,7 @@ Only the remainder: `50 Mod 12 = 2` (remainder is still part of the fraction, so
 
 ### Java
 [Java Language Spec (pow)](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html#pow%28double,%20double%29)
+
+### C
+[Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
+[String Manipulations In C Programming Using Library Functions](https://www.programiz.com/c-programming/string-handling-functions)
