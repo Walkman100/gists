@@ -10,7 +10,7 @@
   - [x] [Episode V: The Empire Strikes Back](https://en.wikipedia.org/wiki/The_Empire_Strikes_Back)
   - [x] [Episode VI: Return of the Jedi](https://en.wikipedia.org/wiki/Return_of_the_Jedi)
   - [x] [Episode VII: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
-  - [ ] [Episode VIII: The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi)
+  - [x] [Episode VIII: The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi)
   - [ ] [Episode IX](https://en.wikipedia.org/wiki/Star_Wars:_Episode_IX)
 - [ ] [Transformers](https://en.wikipedia.org/wiki/Transformers_(film_series)):
   - [x] [Transformers 1](https://en.wikipedia.org/wiki/Transformers_(film))
@@ -40,8 +40,8 @@
   - [ ] [On Stranger Tides](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides)
   - [ ] [Dead Men Tell No Tales](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales)
 - [ ] [Indiana Jones](https://en.wikipedia.org/wiki/Indiana_Jones#Film):
-  - [ ] [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
   - [ ] [The Temple of Doom](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom)
+  - [ ] [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
   - [ ] [The Last Crusade](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade)
   - [ ] [The Kingdom of the Crystal Skull](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull)
 - [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
@@ -65,7 +65,7 @@
     - [ ] Guardians of the Galaxy Vol. 2
     - [ ] Spider-Man: Homecoming
     - [ ] Thor: Ragnarok
-    - [ ] Black Panther
+    - [x] Black Panther
     - [ ] Avengers: Infinity War
     - [ ] Ant-Man and the Wasp
     - [ ] Captain Marvel
@@ -110,7 +110,7 @@
   - [ ] [Shazam!](https://en.wikipedia.org/wiki/Shazam!_(film))
   - [ ] [Wonder Woman 1984](https://en.wikipedia.org/wiki/Wonder_Woman_1984)
   - [ ] [Cyborg](https://en.wikipedia.org/wiki/Cyborg_(2020_film))
-  - [ ] [Green Lantern Corps](https://en.wikipedia.org/wiki/DC_Extended_Universe#Green_Lantern_Corps_(2020))
+  - [ ] [Green Lantern Corps](https://en.wikipedia.org/wiki/Green_Lantern_Corps_(film))
 - [X-Men](https://en.wikipedia.org/wiki/X-Men_(film_series)#Released_films):
   - [ ] [X-Men](https://en.wikipedia.org/wiki/X-Men_(film))
   - [ ] [X2](https://en.wikipedia.org/wiki/X2_(film))
@@ -130,8 +130,8 @@
   - [ ] [Spider-Man 1](https://en.wikipedia.org/wiki/Spider-Man_(2002_film))
   - [ ] [Spider-Man 2](https://en.wikipedia.org/wiki/Spider-Man_2)
   - [ ] [Spider-Man 3](https://en.wikipedia.org/wiki/Spider-Man_3)
-  - [ ] [The Amazing Spider-Man](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(2012_film))
-  - [ ] [The Amazing Spider-Man 2](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2)
+  - [x] [The Amazing Spider-Man](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(2012_film))
+  - [x] [The Amazing Spider-Man 2](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2)
 - [ ] [Mad Max](https://en.wikipedia.org/wiki/Mad_Max_(franchise)#Films):
   - [ ] [Mad Max 1](https://en.wikipedia.org/wiki/Mad_Max)
   - [ ] [Mad Max 2](https://en.wikipedia.org/wiki/Mad_Max_2)
