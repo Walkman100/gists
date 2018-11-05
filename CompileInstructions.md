@@ -28,6 +28,6 @@ If the above is too confusing, run these commands in CMD:
 - `git clone https://github.com/Walkman100/WinCompile.git`
 
 Replace `{project name}` with the GitHub repo you want to compile:
-- `git clone https://github.com/Walkman100/{project name}.git`
+- `git clone --recursive https://github.com/Walkman100/{project name}.git`
 - `cd {project name}`
 - `compile`
