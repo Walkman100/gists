@@ -1,3 +1,11 @@
+# Contents
+
+- [Movies/Films](#moviesfilms)
+- [Animated Movies](#animated-movies)
+- [Live-Action Series](#live-action-series)
+- [Animated Series](#animated-series)
+- [Anime](#anime)
+
 # Movies/Films
 - [ ] [Star Wars](https://en.wikipedia.org/wiki/Star_Wars#Theatrical_films):
   - [x] [Episode I: The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace)
@@ -122,7 +130,7 @@
   - [x] [Deadpool](https://en.wikipedia.org/wiki/Deadpool_(film))
   - [ ] [X-Men: Apocalypse](https://en.wikipedia.org/wiki/X-Men:_Apocalypse)
   - [ ] [Logan](https://en.wikipedia.org/wiki/Logan_(2017_film))
-  - [ ] [Deadpool 2](https://en.wikipedia.org/wiki/Deadpool_2)
+  - [x] [Deadpool 2](https://en.wikipedia.org/wiki/Deadpool_2)
   - [Upcoming films](https://en.wikipedia.org/wiki/X-Men_(film_series)#Upcoming_films):
   - [ ] [Dark Phoenix](https://en.wikipedia.org/wiki/Dark_Phoenix_(film))
   - [ ] [The New Mutants](https://en.wikipedia.org/wiki/The_New_Mutants_(film))
@@ -139,16 +147,17 @@
   - [ ] [Fury Road](https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road)
 - [ ] [The Martian](https://en.wikipedia.org/wiki/The_Martian_(film))
 - [ ] [Baby Driver](https://en.wikipedia.org/wiki/Baby_Driver)
+
+# Animated Movies
+
 - [ ] [Polar Express](https://en.wikipedia.org/wiki/The_Polar_Express_(film))
 - [x] [Cars](https://en.wikipedia.org/wiki/Cars_(franchise)#Film_series):
   - [x] [Cars 1](https://en.wikipedia.org/wiki/Cars_(film))
   - [x] [Cars 2](https://en.wikipedia.org/wiki/Cars_2)
   - [x] [Cars 3](https://en.wikipedia.org/wiki/Cars_3)
 
-# Series
+# Live-Action Series
 
-- [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
-  - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
 - [x] [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones)
   - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_1_(2011))
   - [x] [Season 2](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_2_(2012))
@@ -209,20 +218,25 @@
     - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_3_.282003.E2.80.9304.29)
     - [ ] [Season 4](https://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_4_.282004.E2.80.9305.29)
   - [ ] [Discovery](https://en.wikipedia.org/wiki/Star_Trek:_Discovery)
+- [ ] Mr. Robot ("TV show with accurate hacking")
+- [ ] Breaking Bad
+- [ ] Seinfeld
+
+# Animated Series
+
+- [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
+  - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
+- [x] [RWBY](https://www.youtube.com/playlist?list=PLFw_6jJxziT0lVoUGtXPOoFUnccjjxJug)
 - [ ] [Danny Phantom](https://en.wikipedia.org/wiki/Danny_Phantom)
   - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_1_(2004%E2%80%9305))
   - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_2_(2005%E2%80%9306))
   - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_3_(2006%E2%80%9307))
-- [ ] Mr. Robot ("TV show with accurate hacking")
 - [ ] Futurama
-- [ ] Breaking Bad
 - [ ] Teen Titans
-- [ ] Seinfield
 - [ ] Rick and Morty
 
 ## Anime
 
-- [x] [RWBY](https://www.youtube.com/playlist?list=PLFw_6jJxziT0lVoUGtXPOoFUnccjjxJug)
 - [x] [Haifuri](https://en.wikipedia.org/wiki/High_School_Fleet)
 - [x] Konosuba
 - [ ] [Girls Und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)
