@@ -246,9 +246,26 @@
 ## Anime
 
 - [x] [Haifuri](https://en.wikipedia.org/wiki/High_School_Fleet)
-- [x] Konosuba
+  - [x] [Season 1](https://en.wikipedia.org/wiki/High_School_Fleet#Episode_list)
+  - [x] OVA 1
+  - [x] OVA 2
+- [x] [KonoSuba](https://en.wikipedia.org/wiki/KonoSuba)
+  - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Season_1)
+  - [x] [OVA 1](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Original_video_animation)
+  - [x] [Season 2](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Season_2)
+  - [x] [OVA 2](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Original_video_animation_2)
+- [ ] [Beatless](https://en.wikipedia.org/wiki/Beatless#Anime)
 - [ ] [Girls Und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)
-- [ ] Infinite Stratos
+  - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Episode_list)
+  - [ ] [Special Episodes (OVAs)](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Special_episodes)
+  - [x] [The Movie](https://en.wikipedia.org/wiki/Girls_und_Panzer_der_Film)
+  - [ ] [das Finale](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Girls_und_Panzer_das_Finale)
+- [ ] [Infinite Stratos](https://en.wikipedia.org/wiki/Infinite_Stratos#Anime)
+  - [x] [IS1](https://en.wikipedia.org/wiki/List_of_Infinite_Stratos_episodes#Infinite_Stratos_(2011))
+  - [ ] OVA 1 - Infinite Stratos Encore: Koi ni Kogareru Rokujuusou
+  - [x] [IS2](https://en.wikipedia.org/wiki/List_of_Infinite_Stratos_episodes#Infinite_Stratos_2_(2013))
+  - [ ] OVA 2 - Infinite Stratos 2: Long Vacation Edition
+  - [ ] OVA 3 - Infinite Stratos 2: World Purge-hen
 - [ ] Naruto
 - [ ] Dragon Ball (non-Z)
 - [ ] Dragon Ball Z
