@@ -77,9 +77,8 @@
     - [ ] Avengers: Infinity War
     - [ ] Ant-Man and the Wasp
     - [ ] Captain Marvel
-    - [ ] Avengers: Infinity War Part 2 (Untitled Avengers film)
+    - [ ] Avengers: Endgame
     - [ ] Spider-Man: Far From Home
-    - [ ] Guardians of the Galaxy Vol. 3
 - [DC Live-action Films](https://en.wikipedia.org/wiki/List_of_films_based_on_DC_Comics#Live-action_films):
   - [ ] [Superman and the Mole Men](https://en.wikipedia.org/wiki/Superman_and_the_Mole_Men)
   - [ ] [Batman (1966 film)](https://en.wikipedia.org/wiki/Batman_(1966_film))
@@ -166,7 +165,7 @@
   - [ ] [Season 5](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_5_(2015))
   - [ ] [Season 6](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_6_(2016))
   - [ ] [Season 7](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_7_(2017))
-  - [ ] [Season 8](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_8)
+  - [ ] [Season 8](https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes#Season_8_(2019))
 - [ ] [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) [(since 2005)](https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%93present)#Episodes)
   - [x] [Series 1 (2005)](https://en.wikipedia.org/wiki/Doctor_Who_(series_1))
   - [x] [Series 2 (2006)](https://en.wikipedia.org/wiki/Doctor_Who_(series_2))
@@ -179,6 +178,7 @@
   - [ ] [Series 9 (2015)](https://en.wikipedia.org/wiki/Doctor_Who_(series_9))
   - [ ] [Series 10 (2017)](https://en.wikipedia.org/wiki/Doctor_Who_(series_10))
   - [ ] [Series 11 (2018)](https://en.wikipedia.org/wiki/Doctor_Who_(series_11))
+  - [ ] [Series 12 (2020)](https://en.wikipedia.org/wiki/Doctor_Who_(series_12))
 - [ ] [Star Trek](https://en.wikipedia.org/wiki/Star_Trek#Television_series)
   - [ ] [The Original Series](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
     - [ ] [Pilots](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Pilots_.281964.E2.80.9365.29)
@@ -227,10 +227,18 @@
 - [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
   - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
 - [x] [RWBY](https://www.youtube.com/playlist?list=PLFw_6jJxziT0lVoUGtXPOoFUnccjjxJug)
+  - [x] Volume 1
+  - [x] Volume 2
+  - [x] Volume 3
+  - [x] Volume 4
+  - [x] Volume 5
+  - [x] Volume 6
 - [ ] [Danny Phantom](https://en.wikipedia.org/wiki/Danny_Phantom)
   - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_1_(2004%E2%80%9305))
   - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_2_(2005%E2%80%9306))
   - [ ] [Season 3](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_3_(2006%E2%80%9307))
+- [ ] [Samurai Jack](https://en.wikipedia.org/wiki/Samurai_Jack)
+  - [x] [Season 5 (2017)](https://en.wikipedia.org/wiki/List_of_Samurai_Jack_episodes#Season_5_(2017))
 - [ ] Futurama
 - [ ] Teen Titans
 - [ ] Rick and Morty
