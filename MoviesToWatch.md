@@ -265,9 +265,15 @@
 - [ ] [Beatless](https://en.wikipedia.org/wiki/Beatless#Anime)
 - [ ] [Girls Und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)
   - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Episode_list)
-  - [ ] [Special Episodes (OVAs)](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Special_episodes)
+  - [x] [Special Episodes (OVAs)](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Special_episodes)
   - [x] [The Movie](https://en.wikipedia.org/wiki/Girls_und_Panzer_der_Film)
   - [ ] [das Finale](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Girls_und_Panzer_das_Finale)
+    - [x] das Finale 01
+    - [ ] das Finale 02
+    - [ ] das Finale 03
+    - [ ] das Finale 04
+    - [ ] das Finale 05
+    - [ ] das Finale 06
 - [ ] [Infinite Stratos](https://en.wikipedia.org/wiki/Infinite_Stratos#Anime)
   - [x] [IS1](https://en.wikipedia.org/wiki/List_of_Infinite_Stratos_episodes#Infinite_Stratos_(2011))
   - [ ] OVA 1 - Infinite Stratos Encore: Koi ni Kogareru Rokujuusou
