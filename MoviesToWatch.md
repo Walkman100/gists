@@ -269,7 +269,7 @@
   - [x] [The Movie](https://en.wikipedia.org/wiki/Girls_und_Panzer_der_Film)
   - [ ] [das Finale](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Girls_und_Panzer_das_Finale)
     - [x] das Finale 01
-    - [ ] das Finale 02
+    - [x] das Finale 02
     - [ ] das Finale 03
     - [ ] das Finale 04
     - [ ] das Finale 05
@@ -292,11 +292,13 @@
 - [ ] Angel Beats
 - [ ] Sailor Moon
 - [ ] Kill la Kill
+- [ ] Tengen Toppa Gurren Lagann
 - [ ] Fullmetal Alchemist
 - [ ] Sword Art Online
 - [ ] Evangelion
 - [ ] The Walking Dead
 - [ ] Servant X Service
+- [ ] My Hero Academia
 - [ ] Kyoukai no Kanata
 - [ ] Nichijou
 - [ ] Plastic Memories
@@ -307,5 +309,17 @@
 - [ ] V for Vendetta
 - [ ] Death Note
 - [ ] Higurashi no naku koro ni
+- [ ] Re:Zero
+- [ ] Fairy Tail
+- [ ] Lucky Star
+- [ ] Fate/stay night
+- [ ] Gakusen Toshi Asterisk
+- [ ] UQ Holder!: Mahou Sensei Negima! 2
+- [ ] Plastic Memories
+- [ ] Trinity Seven
+- [ ] Mayo Chiki
+- [ ] Fate/kaleid Prisma Illya
+- [ ] Nichijou
+- [ ] Violet Evergarden
 
 [↑ Back To Top](#contents)
