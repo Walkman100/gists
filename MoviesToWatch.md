@@ -274,12 +274,12 @@
     - [ ] das Finale 04
     - [ ] das Finale 05
     - [ ] das Finale 06
-- [ ] [Infinite Stratos](https://en.wikipedia.org/wiki/Infinite_Stratos#Anime)
+- [x] [Infinite Stratos](https://en.wikipedia.org/wiki/Infinite_Stratos#Anime)
   - [x] [IS1](https://en.wikipedia.org/wiki/List_of_Infinite_Stratos_episodes#Infinite_Stratos_(2011))
-  - [ ] OVA 1 - Infinite Stratos Encore: Koi ni Kogareru Rokujuusou
+  - [x] OVA 1 - Infinite Stratos Encore: Koi ni Kogareru Rokujuusou
   - [x] [IS2](https://en.wikipedia.org/wiki/List_of_Infinite_Stratos_episodes#Infinite_Stratos_2_(2013))
-  - [ ] OVA 2 - Infinite Stratos 2: Long Vacation Edition
-  - [ ] OVA 3 - Infinite Stratos 2: World Purge-hen
+  - [x] OVA 2 - Infinite Stratos 2: Long Vacation Edition
+  - [x] OVA 3 - Infinite Stratos 2: World Purge-hen
 - [ ] Naruto
 - [ ] Dragon Ball (non-Z)
 - [ ] Dragon Ball Z
