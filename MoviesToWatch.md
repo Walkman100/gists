@@ -259,6 +259,7 @@
   - [x] [Season 1](https://en.wikipedia.org/wiki/High_School_Fleet#Episode_list)
   - [x] OVA 1
   - [x] OVA 2
+  - [x] the Movie
 - [x] [KonoSuba](https://en.wikipedia.org/wiki/KonoSuba)
   - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Season_1)
   - [x] [OVA 1](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Original_video_animation)
