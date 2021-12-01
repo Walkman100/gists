@@ -266,7 +266,7 @@
   - [x] [Season 2](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Season_2)
   - [x] [OVA 2](https://en.wikipedia.org/wiki/List_of_KonoSuba_episodes#Original_video_animation_2)
   - [x] [Film - Legend of Crimson](https://en.wikipedia.org/wiki/KonoSuba:_God%27s_Blessing_on_this_Wonderful_World!_Legend_of_Crimson)
-- [ ] [Beatless](https://en.wikipedia.org/wiki/Beatless#Anime)
+- [x] [Beatless](https://en.wikipedia.org/wiki/Beatless#Anime)
 - [ ] [Girls Und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)
   - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Episode_list)
   - [x] [Special Episodes (OVAs)](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Special_episodes)
