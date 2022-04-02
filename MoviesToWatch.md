@@ -27,7 +27,7 @@
   - [ ] [Age of Extinction](https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction)
   - [ ] [The Last Knight](https://en.wikipedia.org/wiki/Transformers:_The_Last_Knight)
   - [ ] [Bumblebee](https://en.wikipedia.org/wiki/Bumblebee_(film))
-- [ ] [Tron](https://en.wikipedia.org/wiki/Tron)
+- [x] [Tron](https://en.wikipedia.org/wiki/Tron)
   - [x] [Tron: Legacy](https://en.wikipedia.org/wiki/Tron:_Legacy)
 - [ ] [The Matrix](https://en.wikipedia.org/wiki/The_Matrix_(franchise)#Films):
   - [ ] [The Matrix (first film)](https://en.wikipedia.org/wiki/The_Matrix)
@@ -269,9 +269,9 @@
 - [x] [Beatless](https://en.wikipedia.org/wiki/Beatless#Anime)
 - [ ] [Girls Und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)
   - [x] [Season 1](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Episode_list)
-  - [x] [Special Episodes (OVAs)](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Special_episodes)
+  - [x] [Special Episodes (OVAs)](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#OVAs)
   - [x] [The Movie](https://en.wikipedia.org/wiki/Girls_und_Panzer_der_Film)
-  - [ ] [das Finale](https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Girls_und_Panzer_das_Finale)
+  - [ ] [das Finale](https://en.wikipedia.org/wiki/Girls_und_Panzer_das_Finale)
     - [x] das Finale 01
     - [x] das Finale 02
     - [ ] das Finale 03
