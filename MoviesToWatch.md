@@ -306,6 +306,9 @@
   - [x] [IS2](https://en.wikipedia.org/wiki/List_of_Infinite_Stratos_episodes#Infinite_Stratos_2_(2013))
   - [x] OVA 2 - Infinite Stratos 2: Long Vacation Edition
   - [x] OVA 3 - Infinite Stratos 2: World Purge-hen
+- [ ] [Triage X](https://en.wikipedia.org/wiki/Triage_X)
+  - [x] [Season 1](https://en.wikipedia.org/wiki/Triage_X#Episode_list)
+  - [ ] OVA1
 - [ ] Naruto
 - [ ] Dragon Ball (non-Z)
 - [ ] Dragon Ball Z
@@ -319,10 +322,6 @@
 - [ ] Sailor Moon
 - [ ] Kill la Kill
 - [ ] Tengen Toppa Gurren Lagann
-- [ ] Fullmetal Alchemist
-- [ ] Sword Art Online
-- [ ] Evangelion
-- [ ] The Walking Dead
 - [ ] Servant X Service
 - [ ] My Hero Academia
 - [ ] Kyoukai no Kanata
@@ -330,6 +329,10 @@
 - [ ] Plastic Memories
 - [ ] Chuunibyou demo Koi ga Shitai!
 - [ ] Bakemonogatari
+- [ ] Fullmetal Alchemist
+- [ ] Sword Art Online
+- [ ] Evangelion
+- [ ] The Walking Dead
 - [ ] Code Geass
 - [ ] Terminator: Sarah Connor Chronicles
 - [ ] V for Vendetta
@@ -347,6 +350,7 @@
 - [ ] Fate/kaleid Prisma Illya
 - [ ] Nichijou
 - [ ] Violet Evergarden
+- [ ] Tokyo Ghoul
 - [ ] Soul Eater
 - [ ] A Certain Magical Index
 
