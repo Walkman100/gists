@@ -38,8 +38,8 @@
   - [x] [The Desolation of Smaug](https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug)
   - [ ] [The Battle of the Five Armies](https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)
 - [ ] [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)):
-  - [ ] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
-  - [ ] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
+  - [x] [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)
+  - [x] [The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)
   - [ ] [The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
 - [ ] [Pirates of the Caribbean](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(film_series)#Films):
   - [ ] [The Curse of the Black Pearl](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
@@ -52,22 +52,22 @@
   - [ ] [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
   - [ ] [The Last Crusade](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade)
   - [ ] [The Kingdom of the Crystal Skull](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull)
-- [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Feature_films):
-  - [ ] [Phase One](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_One):
+- [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Films):
+  - [ ] [Phase One](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_One):
     - [x] Iron Man
     - [x] The Incredible Hulk
     - [x] Iron Man 2
     - [ ] Thor
     - [x] Captain America: The First Avenger
     - [x] Marvel's The Avengers
-  - [ ] [Phase Two](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_Two):
+  - [ ] [Phase Two](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Two):
     - [ ] Iron Man 3
     - [ ] Thor: The Dark World
     - [x] Captain America: The Winter Soldier
     - [ ] Guardians of the Galaxy
     - [ ] Avengers: Age of Ultron
     - [ ] Ant-Man
-  - [ ] [Phase Three](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Phase_Three) and [Future](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Future):
+  - [ ] [Phase Three](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Three) and [Future](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Future):
     - [ ] Captain America: Civil War
     - [ ] Doctor Strange
     - [ ] Guardians of the Galaxy Vol. 2
@@ -79,6 +79,25 @@
     - [ ] Captain Marvel
     - [ ] Avengers: Endgame
     - [ ] Spider-Man: Far From Home
+  - [ ] [Phase Four](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Four)
+    - [x] Black Widow
+    - [ ] Shang-Chi and the Legend of the Ten Rings
+    - [ ] Eternals
+    - [ ] Spider-Man: No Way Home
+    - [ ] Doctor Strange in the Multiverse of Madness
+    - [ ] Thor: Love and Thunder
+    - [ ] Black Panther: Wakanda Forever
+  - [ ] [Phase Five](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Five)
+    - [ ] Ant-Man and the Wasp: Quantumania
+    - [ ] Guardians of the Galaxy Vol. 3
+    - [ ] The Marvels
+    - [ ] Blade
+    - [ ] Captain America: New World Order
+    - [ ] Thunderbolts
+  - [ ] [Phase Six](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Six)
+    - [ ] Fantastic Four
+    - [ ] Avengers: The Kang Dynasty
+    - [ ] Avengers: Secret Wars
 - [DC Live-action Films](https://en.wikipedia.org/wiki/List_of_films_based_on_DC_Comics#Live-action_films):
   - [ ] [Superman and the Mole Men](https://en.wikipedia.org/wiki/Superman_and_the_Mole_Men)
   - [ ] [Batman (1966 film)](https://en.wikipedia.org/wiki/Batman_(1966_film))
@@ -145,7 +164,10 @@
   - [ ] [Beyond Thunderdome](https://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome)
   - [ ] [Fury Road](https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road)
 - [ ] [The Martian](https://en.wikipedia.org/wiki/The_Martian_(film))
-- [ ] [Baby Driver](https://en.wikipedia.org/wiki/Baby_Driver)
+- [x] [Baby Driver](https://en.wikipedia.org/wiki/Baby_Driver)
+- [x] [Dune (1984)](https://en.wikipedia.org/wiki/Dune_(1984_film))
+- [x] [Dune (2021)](https://en.wikipedia.org/wiki/Dune_(2021_film))
+- [ ] [Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)
 
 [↑ Back To Top](#contents)
 
