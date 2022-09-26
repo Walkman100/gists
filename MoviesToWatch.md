@@ -67,7 +67,7 @@
     - [ ] Guardians of the Galaxy
     - [ ] Avengers: Age of Ultron
     - [ ] Ant-Man
-  - [ ] [Phase Three](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Three) and [Future](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films#Future):
+  - [ ] [Phase Three](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Three):
     - [ ] Captain America: Civil War
     - [ ] Doctor Strange
     - [ ] Guardians of the Galaxy Vol. 2
@@ -79,7 +79,7 @@
     - [ ] Captain Marvel
     - [ ] Avengers: Endgame
     - [ ] Spider-Man: Far From Home
-  - [ ] [Phase Four](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Four)
+  - [ ] [Phase Four](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Four):
     - [x] Black Widow
     - [ ] Shang-Chi and the Legend of the Ten Rings
     - [ ] Eternals
@@ -87,14 +87,14 @@
     - [ ] Doctor Strange in the Multiverse of Madness
     - [ ] Thor: Love and Thunder
     - [ ] Black Panther: Wakanda Forever
-  - [ ] [Phase Five](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Five)
+  - [ ] [Phase Five](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Five):
     - [ ] Ant-Man and the Wasp: Quantumania
     - [ ] Guardians of the Galaxy Vol. 3
     - [ ] The Marvels
     - [ ] Blade
     - [ ] Captain America: New World Order
     - [ ] Thunderbolts
-  - [ ] [Phase Six](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Six)
+  - [ ] [Phase Six](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Six):
     - [ ] Fantastic Four
     - [ ] Avengers: The Kang Dynasty
     - [ ] Avengers: Secret Wars
