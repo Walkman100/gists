@@ -306,9 +306,9 @@
   - [x] [IS2](https://en.wikipedia.org/wiki/List_of_Infinite_Stratos_episodes#Infinite_Stratos_2_(2013))
   - [x] OVA 2 - Infinite Stratos 2: Long Vacation Edition
   - [x] OVA 3 - Infinite Stratos 2: World Purge-hen
-- [ ] [Triage X](https://en.wikipedia.org/wiki/Triage_X)
+- [x] [Triage X](https://en.wikipedia.org/wiki/Triage_X)
   - [x] [Season 1](https://en.wikipedia.org/wiki/Triage_X#Episode_list)
-  - [ ] OVA1
+  - [x] OVA1
 - [ ] Naruto
 - [ ] Dragon Ball (non-Z)
 - [ ] Dragon Ball Z
