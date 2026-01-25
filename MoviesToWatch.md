@@ -269,7 +269,7 @@
 
 - [x] [Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
   - [x] [Avatar: The Legend of Korra](https://en.wikipedia.org/wiki/The_Legend_of_Korra)
-- [x] [RWBY](https://www.youtube.com/playlist?list=PLFw_6jJxziT0lVoUGtXPOoFUnccjjxJug)
+- [ ] [RWBY](https://www.youtube.com/playlist?list=PLFw_6jJxziT0lVoUGtXPOoFUnccjjxJug)
   - [x] Volume 1
   - [x] Volume 2
   - [x] Volume 3
@@ -278,6 +278,7 @@
   - [x] Volume 6
   - [x] Volume 7
   - [x] Volume 8
+  - [ ] Volume 9
 - [ ] [Danny Phantom](https://en.wikipedia.org/wiki/Danny_Phantom)
   - [ ] [Season 1](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_1_(2004%E2%80%9305))
   - [ ] [Season 2](https://en.wikipedia.org/wiki/List_of_Danny_Phantom_episodes#Season_2_(2005%E2%80%9306))
