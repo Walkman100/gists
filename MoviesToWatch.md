@@ -183,6 +183,15 @@
   - [x] [Cars 1](https://en.wikipedia.org/wiki/Cars_(film))
   - [x] [Cars 2](https://en.wikipedia.org/wiki/Cars_2)
   - [x] [Cars 3](https://en.wikipedia.org/wiki/Cars_3)
+- [ ] [How to Train Your Dragon](https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon)
+  - [ ] [How to Train Your Dragon 1](https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_film))
+  - [ ] [How to Train Your Dragon 2](https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_2)
+  - [ ] [How to Train Your Dragon 3: The Hidden World](https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon:_The_Hidden_World)
+- [ ] [Shrek](https://en.wikipedia.org/wiki/Shrek_(franchise))
+  - [x] [Shrek 1](https://en.wikipedia.org/wiki/Shrek)
+  - [ ] [Shrek 2](https://en.wikipedia.org/wiki/Shrek_2)
+  - [ ] [Shrek 3 (Shrek the Third)](https://en.wikipedia.org/wiki/Shrek_the_Third)
+  - [ ] [Shrek 4 (Shrek Forever After)](https://en.wikipedia.org/wiki/Shrek_Forever_After)
 
 [↑ Back To Top](#contents)
 
@@ -252,6 +261,7 @@
 - [ ] Mr. Robot ("TV show with accurate hacking")
 - [ ] Breaking Bad
 - [ ] Seinfeld
+- [ ] The Office
 
 [↑ Back To Top](#contents)
 
